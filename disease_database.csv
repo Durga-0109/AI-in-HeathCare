@@ -1,0 +1,1236 @@
+Disease,Symptoms,Gender,Age,Medicine
+Acne,"Pimples, blackheads, whiteheads, oily skin, inflammation",Gender Neutral,12–30 years,"Benzoyl peroxide, salicylic acid, retinoids (tretinoin), antibiotics (clindamycin)"
+Allergies (Allergic Rhinitis),"Sneezing, runny nose, itchy eyes, congestion",Gender Neutral,Any age (common in children and young adults),"Antihistamines (loratadine, cetirizine), nasal corticosteroids (fluticasone)"
+Asthma,"Wheezing, shortness of breath, chest tightness, coughing","Slightly more common in males (childhood), females (adults)",Any age (often starts in childhood),"Inhalers (albuterol), corticosteroids (fluticasone), leukotriene modifiers (montelukast)"
+Arthritis (Osteoarthritis),"Joint pain, stiffness, swelling, reduced mobility",More common in females,40+ years,"NSAIDs (ibuprofen), acetaminophen, physical therapy"
+Alzheimer’s Disease,"Memory loss, confusion, difficulty speaking, mood swings",More common in females,65+ years,"Cholinesterase inhibitors (donepezil), memantine"
+Anemia (Iron-Deficiency Anemia),"Fatigue, weakness, pale skin, dizziness",More common in females (due to menstruation),Any age,"Iron supplements (ferrous sulfate), vitamin C (for absorption)"
+Anxiety Disorder,"Excessive worry, restlessness, rapid heartbeat, sweating",More common in females,Teens to adults,"SSRIs (sertraline), benzodiazepines (alprazolam), therapy"
+Appendicitis,"Severe abdominal pain (right side), nausea, fever, loss of appetite",Gender Neutral,10–30 years,"Surgery (appendectomy), antibiotics (if mild)"
+Atherosclerosis,"Chest pain, leg pain, fatigue (due to narrowed arteries)",More common in males,40+ years,"Statins (atorvastatin), blood thinners (aspirin)"
+Atrial Fibrillation (AFib),"Irregular heartbeat, palpitations, dizziness, fatigue",More common in males,50+ years,"Beta-blockers (metoprolol), anticoagulants (warfarin)"
+Autism Spectrum Disorder (ASD),"Social difficulties, repetitive behaviors, speech delays",More common in males,Diagnosed in childhood (2+ years),"Behavioral therapy, SSRIs (if anxiety present)"
+Athlete’s Foot (Tinea Pedis),"Itchy, scaly feet, blisters, cracking skin",More common in males,Teens to adults,"Antifungal creams (clotrimazole, terbinafine)"
+Aortic Aneurysm,"Severe chest/back pain, shortness of breath (if ruptured)",More common in males,60+ years,"Surgery, blood pressure medications (losartan)"
+Acid Reflux (GERD),"Heartburn, regurgitation, chest pain, difficulty swallowing",Gender Neutral,20+ years,"Antacids (Tums), PPIs (omeprazole), H2 blockers (famotidine)"
+ADHD (Attention Deficit Hyperactivity Disorder),"Inattention, hyperactivity, impulsivity",More common in males,Childhood (diagnosed at 6+ years),"Stimulants (methylphenidate), non-stimulants (atomoxetine)"
+AIDS (Acquired Immunodeficiency Syndrome),"Frequent infections, weight loss, fatigue, night sweats",Gender Neutral (higher in males due to risk factors),Any age (most common in 20–50),"Antiretroviral therapy (ART) (tenofovir, emtricitabine)"
+Alcoholism (Alcohol Use Disorder),"Craving alcohol, inability to stop drinking, withdrawal symptoms",More common in males,20–50 years,"Naltrexone, acamprosate, therapy"
+Amnesia,"Memory loss, confusion, inability to recall past events",Gender Neutral,Any age (often elderly due to brain injury/disease),"Therapy, treating underlying cause (e.g., vitamin B1 for Wernicke-Korsakoff)"
+Anal Fissure,"Pain during bowel movements, bleeding, itching",Gender Neutral,20–50 years,"Fiber supplements, stool softeners, topical nitroglycerin"
+Angina (Stable Angina),"Chest pain, pressure, shortness of breath (during exertion)",More common in males,50+ years,"Nitroglycerin, beta-blockers (metoprolol), statins"
+Anorexia Nervosa,"Extreme weight loss, fear of gaining weight, distorted body image",More common in females,Teens to young adults,"Therapy, SSRIs (fluoxetine), nutritional support"
+Anthrax,"Fever, fatigue, cough (if inhaled), skin ulcers (if cutaneous)",Gender Neutral,Any age,"Antibiotics (ciprofloxacin, doxycycline)"
+Aphasia,"Difficulty speaking, understanding language, reading/writing issues",Gender Neutral,Any age (often after stroke or brain injury),"Speech therapy, treating underlying cause"
+Arrhythmia (Irregular Heartbeat),"Palpitations, dizziness, fainting, chest pain",Gender Neutral,Any age (more common in elderly),"Beta-blockers, antiarrhythmics (amiodarone)"
+Asperger’s Syndrome,"Social challenges, repetitive behaviors, intense focus on interests",More common in males,Diagnosed in childhood,"Behavioral therapy, social skills training"
+Autoimmune Hepatitis,"Fatigue, jaundice, abdominal pain, joint pain",More common in females,15–40 years,"Immunosuppressants (prednisone, azathioprine)"
+Avian Influenza (Bird Flu),"Fever, cough, sore throat, muscle aches, pneumonia",Gender Neutral,Any age,"Antivirals (oseltamivir), supportive care"
+Azoospermia,"Infertility, low sperm count",Male,20–50 years,"Hormone therapy (FSH), surgery (if blockage exists)"
+Aortic Stenosis,"Chest pain, fainting, shortness of breath, heart murmur",More common in males,60+ years,"Valve replacement surgery, diuretics (furosemide)"
+Actinic Keratosis,"Rough, scaly skin patches (pre-cancerous)",More common in males,40+ years,"Topical creams (5-fluorouracil), cryotherapy"
+Agoraphobia,"Fear of open/public spaces, panic attacks",More common in females,Teens to adults,"SSRIs (sertraline), CBT therapy"
+Amebiasis,"Diarrhea (sometimes bloody), stomach cramps, fever",Gender Neutral,Any age,"Antibiotics (metronidazole, tinidazole)"
+Ankylosing Spondylitis,"Chronic back pain, stiffness, reduced mobility",More common in males,20–40 years,"NSAIDs (ibuprofen), biologics (adalimumab)"
+Aplastic Anemia,"Fatigue, frequent infections, easy bruising",Gender Neutral,Any age,"Immunosuppressants (cyclosporine), bone marrow transplant"
+Atopic Dermatitis (Eczema),"Itchy, red, dry skin, rashes",Gender Neutral,Often starts in childhood,"Steroid creams (hydrocortisone), antihistamines"
+Auditory Neuropathy,"Hearing difficulty, distorted sound perception",Gender Neutral,Any age (often congenital),"Hearing aids, cochlear implants"
+Amyotrophic Lateral Sclerosis (ALS),"Muscle weakness, paralysis, difficulty speaking/swallowing",More common in males,40–70 years,"Riluzole, edaravone, supportive care"
+Anal Itching (Pruritus Ani),"Itching around the anus, redness",More common in males,Adults,"Antifungal creams, hydrocortisone ointment"
+Angioedema,"Swelling under the skin (face, lips, throat), hives",Gender Neutral,Any age,"Antihistamines (diphenhydramine), epinephrine (if severe)"
+Achalasia,"Difficulty swallowing, chest pain, regurgitation",Gender Neutral,25–60 years,"Nitrates, calcium channel blockers, surgery"
+Alopecia Areata,"Patchy hair loss, bald spots",Gender Neutral,Any age (often teens to adults),"Corticosteroid injections, minoxidil"
+Acute Bronchitis,"Cough (with mucus), chest discomfort, fatigue",Gender Neutral,Any age,"Rest, hydration, cough suppressants (dextromethorphan)"
+Addison’s Disease,"Fatigue, weight loss, low blood pressure, dark skin patches",More common in females,30–50 years,"Hormone replacement (hydrocortisone, fludrocortisone)"
+Adenomyosis,"Heavy periods, pelvic pain, bloating",Female,30–50 years,"Hormonal therapy (progestins), NSAIDs"
+Amyloidosis,"Fatigue, swelling, shortness of breath, numbness",More common in males,50+ years,"Chemotherapy, stem cell transplant"
+Anencephaly,Missing parts of brain/skull (fatal birth defect),Gender Neutral,Newborns,Palliative care (no cure)
+Arteritis (Giant Cell Arteritis),"Headaches, jaw pain, vision loss, scalp tenderness",More common in females,50+ years,Corticosteroids (prednisone)
+Ascariasis (Roundworm Infection),"Abdominal pain, diarrhea, coughing, weight loss",Gender Neutral,Any age (common in children),"Antiparasitics (albendazole, mebendazole)"
+Astigmatism,"Blurred vision, eye strain, headaches",Gender Neutral,Any age,"Corrective lenses, LASIK surgery"
+Avascular Necrosis,"Joint pain (hip/knee), limited mobility",More common in males,30–50 years,"Pain relievers (NSAIDs), surgery (joint replacement)"
+Bronchitis,"Cough (with mucus), wheezing, chest discomfort, fatigue",Gender Neutral,Any age (more severe in elderly & young children),"Rest, hydration, bronchodilators (albuterol), cough suppressants"
+Bipolar Disorder,"Mood swings (mania/depression), hyperactivity, insomnia, impulsivity",Gender Neutral (slightly more common in females),Teens to adults (often diagnosed at 20–30 years),"Mood stabilizers (lithium), antipsychotics (quetiapine)"
+Breast Cancer,"Lump in breast, nipple discharge, skin dimpling, pain",Female (rare in males),40+ years,"Surgery, chemotherapy (doxorubicin), hormone therapy (tamoxifen)"
+Bell’s Palsy,"Sudden facial drooping, drooling, difficulty closing eye",Gender Neutral,15–60 years,"Corticosteroids (prednisone), antivirals (if viral cause)"
+Bacterial Vaginosis (BV),"Fishy odor, grayish discharge, itching",Female,15–50 years,"Antibiotics (metronidazole, clindamycin)"
+Benign Prostatic Hyperplasia (BPH),"Frequent urination, weak urine stream, incomplete emptying",Male,50+ years,"Alpha-blockers (tamsulosin), 5-alpha reductase inhibitors (finasteride)"
+Bulimia Nervosa,"Binge eating followed by purging, tooth erosion, dehydration",More common in females,Teens to young adults,"Therapy, SSRIs (fluoxetine)"
+Bladder Infection (UTI - Cystitis),"Painful urination, frequent urges, cloudy urine",More common in females,Any age (peak in 20–50 years),"Antibiotics (ciprofloxacin, nitrofurantoin)"
+Bronchiolitis,"Wheezing, rapid breathing, cough, fever (in infants)",Gender Neutral,Infants & toddlers (under 2 years),"Supportive care (hydration, oxygen if severe)"
+Botulism,"Muscle weakness, blurred vision, difficulty swallowing",Gender Neutral,Any age,"Antitoxin, respiratory support"
+Brucellosis,"Fever, joint pain, fatigue, sweating",More common in males (occupational exposure),Adults (20–50 years),Antibiotics (doxycycline + rifampin)
+Barrett’s Esophagus,"Chronic heartburn, acid reflux, difficulty swallowing",More common in males,50+ years,"PPIs (omeprazole), surgery (if precancerous)"
+Basal Cell Carcinoma,"Pearly skin bump, bleeding sore, slow-growing lesion",More common in males,40+ years,"Surgical removal, topical chemotherapy (5-FU)"
+Beriberi (Thiamine Deficiency),"Weakness, pain, swelling, heart failure (wet type)",Gender Neutral,Any age,Thiamine (Vitamin B1) supplements
+Blepharitis,"Red, itchy eyelids, crusty debris, dry eyes",Gender Neutral,Adults (30+ years),"Warm compresses, antibiotic ointment (erythromycin)"
+Bone Cancer (Osteosarcoma),"Bone pain, swelling, fractures, fatigue",Slightly more common in males,Teens & young adults (10–30 years),"Chemotherapy (methotrexate), surgery"
+Borderline Personality Disorder (BPD),"Emotional instability, fear of abandonment, self-harm",More common in females,Teens to adults,"Therapy (DBT), SSRIs (fluoxetine)"
+Bursitis,"Joint pain, swelling, stiffness (shoulders, knees, hips)",Gender Neutral,40+ years,"NSAIDs (ibuprofen), corticosteroid injections"
+Bunions (Hallux Valgus),"Bony bump at big toe base, pain, redness",More common in females,30+ years,"Orthotics, surgery (if severe)"
+Bronchiectasis,"Chronic cough, thick mucus, recurrent infections",Gender Neutral,Any age (often starts in childhood),"Antibiotics, bronchodilators, chest physiotherapy"
+Balanitis,"Redness, swelling, itching on penis tip",Male,Any age (common in uncircumcised men),"Antifungal creams (clotrimazole), antibiotics (if bacterial)"
+Brain Aneurysm,"Severe headache (if ruptured), nausea, vision changes",More common in females,30–60 years,"Surgery (clipping/coiling), blood pressure control"
+Brittle Bone Disease (Osteogenesis Imperfecta),"Frequent fractures, weak bones, short stature",Gender Neutral,Congenital (lifelong),"Bisphosphonates, physical therapy"
+Bruxism (Teeth Grinding),"Jaw pain, headaches, worn teeth",Gender Neutral,Any age (peak in 25–44 years),"Mouth guards, muscle relaxants (if severe)"
+Blastomycosis,"Fever, cough, chest pain, skin lesions",More common in males (occupational exposure),Adults,"Antifungals (itraconazole, amphotericin B)"
+Behçet’s Disease,"Mouth sores, genital ulcers, eye inflammation",More common in males,20–40 years,"Corticosteroids, immunosuppressants (azathioprine)"
+Binge Eating Disorder,"Eating large amounts rapidly, guilt, weight gain",More common in females,Teens to adults,"Therapy, SSRIs (fluoxetine)"
+Black Mold Exposure (Stachybotrys),"Coughing, wheezing, eye irritation, fatigue",Gender Neutral,Any age,"Antihistamines, removing mold exposure"
+Bowen’s Disease (Squamous Cell Carcinoma in Situ),"Red, scaly skin patch",More common in females,60+ years,"Topical chemotherapy (5-FU), cryotherapy"
+Burning Mouth Syndrome,"Burning sensation on tongue/lips, dry mouth",More common in females,50+ years,"Clonazepam, vitamin B supplements"
+Bacterial Meningitis,"Fever, stiff neck, headache, confusion",Gender Neutral,Any age (severe in infants & elderly),"IV antibiotics (ceftriaxone, vancomycin)"
+Baker’s Cyst (Popliteal Cyst),"Swelling behind knee, stiffness, pain",Gender Neutral,Adults (40+ years),"NSAIDs, corticosteroid injections"
+Bedsores (Pressure Ulcers),"Skin breakdown, redness, pain, infection risk",Gender Neutral,Elderly (70+ years),"Wound care, antibiotics (if infected)"
+Biliary Colic,"Sudden upper right abdominal pain, nausea",More common in females,30–50 years,"Pain relievers, surgery (cholecystectomy)"
+Blue Baby Syndrome (Methemoglobinemia),"Bluish skin, shortness of breath, fatigue",Gender Neutral,Infants,"Methylene blue, oxygen therapy"
+Body Dysmorphic Disorder (BDD),"Obsession with perceived flaws, excessive grooming",Gender Neutral (slightly more females),Teens to adults,"SSRIs (fluoxetine), CBT therapy"
+Brain Tumor,"Headaches, seizures, nausea, vision changes",Gender Neutral,Any age (peaks in children & elderly),"Surgery, chemotherapy, radiation"
+Breast Fibroadenoma,"Firm, movable breast lump, painless",Female,15–35 years,"Monitoring, surgery (if large)"
+Brown-Sequard Syndrome,"Weakness on one side, loss of sensation on opposite side",Gender Neutral,Adults (spinal cord injury),"Surgery, physical therapy"
+Buerger’s Disease (Thromboangiitis Obliterans),"Pain in hands/feet, ulcers, cold limbs",More common in males,20–40 years,"Smoking cessation, vasodilators"
+Burkitt’s Lymphoma,"Rapidly growing tumors, swollen lymph nodes, fever",More common in males,Children & young adults,Chemotherapy (rituximab + CHOP)
+Byssinosis (Brown Lung Disease),"Cough, chest tightness, wheezing (textile workers)",More common in males,Adults (occupational exposure),"Bronchodilators, avoiding dust exposure"
+Babesiosis,"Fever, fatigue, hemolytic anemia (tick-borne)",Gender Neutral,Any age,Antibiotics (azithromycin + atovaquone)
+Balantidiasis,"Diarrhea (sometimes bloody), abdominal pain",Gender Neutral,Any age,"Antibiotics (tetracycline, metronidazole)"
+Bartholin’s Cyst,"Painful lump near vaginal opening, swelling",Female,20–50 years,"Warm compresses, drainage (if infected)"
+Berylliosis,"Chronic cough, shortness of breath, fatigue",More common in males (occupational),Adults,"Corticosteroids, oxygen therapy"
+Blind Loop Syndrome,"Diarrhea, weight loss, bloating (after bowel surgery)",Gender Neutral,Adults,"Antibiotics (rifaximin), surgery"
+Blue Nevus,"Blue-black mole, usually benign",Gender Neutral,Any age,"Monitoring, excision (if suspicious)"
+Branchial Cleft Cyst,"Neck lump, sometimes infected",Gender Neutral,Congenital (often found in childhood),Surgical removal
+Broken Heart Syndrome (Takotsubo Cardiomyopathy),"Sudden chest pain, shortness of breath (after stress)",More common in females,50+ years,"Beta-blockers, supportive care"
+Common Cold (Viral Rhinitis),"Runny nose, sneezing, sore throat, mild fever",Gender Neutral,Any age,"Rest, hydration, decongestants (pseudoephedrine), pain relievers (acetaminophen)"
+Chickenpox (Varicella),"Itchy rash, fever, fatigue, blisters",Gender Neutral,"Children (2-12 years), but can affect any age","Antivirals (acyclovir), calamine lotion, antihistamines (diphenhydramine)"
+Cholera,"Severe diarrhea, vomiting, dehydration",Gender Neutral,Any age,"Oral rehydration salts (ORS), antibiotics (doxycycline)"
+Chronic Obstructive Pulmonary Disease (COPD),"Shortness of breath, chronic cough, wheezing","More common in males (historically), now nearly equal",40+ years,"Bronchodilators (albuterol), inhaled steroids (fluticasone)"
+Cirrhosis,"Fatigue, jaundice, abdominal swelling, easy bruising",More common in males,40+ years,"Diuretics (furosemide), beta-blockers (propranolol), liver transplant"
+Colorectal Cancer,"Blood in stool, abdominal pain, weight loss, changes in bowel habits",Gender Neutral (slightly more males),50+ years,"Surgery, chemotherapy (5-FU), radiation"
+Conjunctivitis (Pink Eye),"Redness, itching, discharge, tearing",Gender Neutral,Any age,"Antibiotic drops (if bacterial), antihistamine drops (if allergic)"
+Coronary Artery Disease (CAD),"Chest pain (angina), shortness of breath, fatigue",More common in males,40+ years,"Statins (atorvastatin), beta-blockers (metoprolol), aspirin"
+Crohn's Disease,"Abdominal pain, diarrhea, weight loss, fatigue",Gender Neutral,15-35 years,"Anti-inflammatories (mesalamine), biologics (infliximab)"
+Cystic Fibrosis,"Persistent cough, frequent lung infections, poor growth",Gender Neutral,Congenital (diagnosed in childhood),"CFTR modulators (ivacaftor), enzyme supplements"
+Cervical Cancer,"Abnormal vaginal bleeding, pelvic pain, discharge",Female,30-50 years,"Surgery, chemotherapy, radiation"
+Celiac Disease,"Diarrhea, bloating, weight loss, fatigue",More common in females,Any age (often diagnosed in childhood),"Gluten-free diet, vitamin supplements"
+Chlamydia,"Painful urination, discharge, pelvic pain (often asymptomatic)",More reported in females,15-24 years,"Antibiotics (azithromycin, doxycycline)"
+Chronic Kidney Disease (CKD),"Fatigue, swelling, changes in urination, nausea",More common in females,50+ years,"Blood pressure medications (lisinopril), dialysis"
+Cataracts,"Cloudy vision, glare sensitivity, fading colors",Gender Neutral,60+ years,Surgery (lens replacement)
+Carpal Tunnel Syndrome,"Hand numbness, tingling, weakness",More common in females,30-60 years,"Wrist splints, corticosteroid injections, surgery"
+Chikungunya,"High fever, severe joint pain, rash",Gender Neutral,Any age,"Pain relievers (NSAIDs), rest"
+Chronic Fatigue Syndrome (ME/CFS),"Extreme tiredness, unrefreshing sleep, cognitive difficulties",More common in females,20-40 years,"Symptom management (sleep aids, pain relievers)"
+Contact Dermatitis,"Red, itchy rash, blisters, dry skin",Gender Neutral,Any age,"Topical steroids (hydrocortisone), antihistamines"
+Congestive Heart Failure (CHF),"Shortness of breath, fatigue, swelling in legs",Gender Neutral,50+ years,"Diuretics (furosemide), beta-blockers (carvedilol)"
+Costochondritis,"Chest pain, tenderness at rib joints",More common in females,20-40 years,"NSAIDs (ibuprofen), rest"
+Cushing's Syndrome,"Weight gain (especially abdomen), purple stretch marks, fatigue",More common in females,20-50 years,"Surgery (if tumor-related), medications (ketoconazole)"
+Cyclothymia,Mild mood swings (hypomania and mild depression),Gender Neutral,Teens to adults,"Mood stabilizers (lithium), therapy"
+Cystitis (Bladder Inflammation),"Frequent urination, burning sensation, pelvic pressure",More common in females,Any age,"Antibiotics (if bacterial), phenazopyridine (for pain)"
+Cytomegalovirus (CMV) Infection,"Often asymptomatic; fever, fatigue, swollen glands (if symptomatic)",Gender Neutral,Any age,Antivirals (ganciclovir) for severe cases
+Cerebral Palsy,"Movement disorders, muscle stiffness, developmental delays",Gender Neutral,Congenital (lifelong),"Physical therapy, muscle relaxants (baclofen)"
+Cluster Headaches,"Severe one-sided head pain, eye redness, tearing",More common in males,20-50 years,"Oxygen therapy, triptans (sumatriptan)"
+Creutzfeldt-Jakob Disease (CJD),"Rapid dementia, muscle stiffness, twitching",Gender Neutral,50+ years,"No cure, supportive care only"
+Cryptosporidiosis,"Watery diarrhea, stomach cramps, dehydration",Gender Neutral,Any age,"Nitazoxanide, rehydration"
+Croup,"Barking cough, stridor, difficulty breathing",Gender Neutral,6 months - 3 years,"Steroids (dexamethasone), nebulized epinephrine"
+Cutaneous Larva Migrans,"Itchy, winding rash (usually on feet)",Gender Neutral,Any age,Antiparasitics (albendazole)
+Cyclic Vomiting Syndrome,Recurrent episodes of severe nausea and vomiting,More common in females,"Children (3-7 years), adults","Anti-nausea drugs (ondansetron), migraine prophylaxis"
+Cysticercosis,"Seizures, headaches, neurological symptoms",Gender Neutral,Any age,"Antiparasitics (albendazole), steroids"
+Cold Sores (Herpes Labialis),"Painful blisters on lips, tingling sensation",Gender Neutral,Any age,"Antivirals (acyclovir), topical creams (docosanol)"
+Chronic Sinusitis,"Nasal congestion, facial pain, postnasal drip",Gender Neutral,Adults,"Nasal steroids (fluticasone), antibiotics (if bacterial)"
+Capillary Leak Syndrome,"Swelling, low blood pressure, hemoconcentration",Gender Neutral,Adults,"IV fluids, theophylline (prophylaxis)"
+Cat Scratch Disease,"Swollen lymph nodes, fever, fatigue",Gender Neutral,Children and young adults,Antibiotics (azithromycin) for severe cases
+Chancroid,"Painful genital ulcers, swollen lymph nodes",More common in males,20-40 years,"Antibiotics (azithromycin, ceftriaxone)"
+Chemical Burns,"Skin redness, blistering, pain",Gender Neutral,Any age,"Immediate irrigation, topical antibiotics"
+Chondromalacia Patellae,"Knee pain (especially when climbing stairs), grinding sensation",More common in females,Teens to young adults,"NSAIDs, physical therapy"
+Chronic Lymphocytic Leukemia (CLL),"Fatigue, swollen lymph nodes, frequent infections",More common in males,50+ years,"Chemotherapy (ibrutinib), immunotherapy"
+Complex Regional Pain Syndrome (CRPS),"Severe burning pain, swelling, skin changes",More common in females,40-60 years,"Pain medications, physical therapy"
+Corneal Abrasion,"Eye pain, tearing, light sensitivity",Gender Neutral,Any age,"Antibiotic drops, pain relievers"
+Crigler-Najjar Syndrome,"Jaundice, kernicterus (in severe cases)",Gender Neutral,Congenital (present at birth),"Phototherapy, liver transplant"
+Cryoglobulinemia,"Rash, joint pain, weakness, kidney problems",More common in females,40+ years,"Immunosuppressants, plasma exchange"
+Cushing's Disease (Pituitary Adenoma),Same as Cushing's syndrome (but caused by pituitary tumor),More common in females,20-50 years,"Surgery, medications (ketoconazole)"
+Cutaneous T-cell Lymphoma,"Rash, skin patches, itching",More common in males,50+ years,"Topical chemotherapy, phototherapy"
+Cyclospora Infection,"Watery diarrhea, loss of appetite, bloating",Gender Neutral,Any age,Antibiotics (trimethoprim-sulfamethoxazole)
+Cystinuria,"Kidney stones, flank pain, blood in urine",Gender Neutral,Teens to adults,"Increased fluid intake, alkalinizing agents"
+Cytokine Release Syndrome,"High fever, low blood pressure, difficulty breathing",Gender Neutral,Any age,"Tocilizumab, supportive care"
+Diabetes Mellitus (Type 1),"Excessive thirst, frequent urination, weight loss, fatigue",Gender Neutral,Usually diagnosed in children/teens (5-25 years),Insulin therapy (rapid-acting and long-acting insulin)
+Diabetes Mellitus (Type 2),"Increased thirst, frequent urination, slow wound healing",Gender Neutral (slightly more common in males),30+ years (increasingly seen in younger adults),"Metformin, SGLT2 inhibitors (empagliflozin), GLP-1 agonists (liraglutide)"
+Dengue Fever,"High fever, severe headache, joint/muscle pain, rash",Gender Neutral,Any age,"Pain relievers (acetaminophen), hydration (avoid NSAIDs)"
+Depression (Major Depressive Disorder),"Persistent sadness, loss of interest, fatigue, sleep disturbances",More common in females,Teens to elderly (peak onset 20s-30s),"SSRIs (fluoxetine), SNRIs (venlafaxine), therapy"
+Dermatitis (Atopic/Eczema),"Itchy, red, dry skin, rashes",Gender Neutral,Often starts in childhood,"Topical steroids (hydrocortisone), antihistamines"
+Diverticulitis,"Abdominal pain (usually left side), fever, bloating",Gender Neutral (slightly more common in males),50+ years,"Antibiotics (ciprofloxacin + metronidazole), liquid diet"
+Diphtheria,"Sore throat, fever, gray throat membrane",Gender Neutral,Any age (rare where vaccinated),"Antitoxin, antibiotics (penicillin)"
+Dry Eye Syndrome,"Burning, gritty sensation, redness, blurred vision",More common in females,50+ years,"Artificial tears, cyclosporine drops (Restasis)"
+Dizziness (Vertigo - BPPV),"Spinning sensation, nausea, imbalance",More common in females,50+ years,"Epley maneuver, meclizine"
+Dysmenorrhea (Painful Periods),"Cramping, lower back pain, nausea during menstruation",Female,Teens to 40s,"NSAIDs (ibuprofen), hormonal birth control"
+Dyslexia,"Difficulty reading, spelling, writing",More common in males,Childhood (lifelong),Educational therapy (no medication)
+Dupuytren's Contracture,"Thickened palm tissue, bent fingers",More common in males,40+ years,"Collagenase injections, surgery"
+Delirium,"Confusion, disorientation, agitation",Gender Neutral,Elderly (65+ years),"Treat underlying cause, antipsychotics (haloperidol if severe)"
+Deep Vein Thrombosis (DVT),"Leg pain/swelling, warmth, redness",Gender Neutral,40+ years,"Blood thinners (heparin, warfarin)"
+Down Syndrome (Trisomy 21),"Intellectual disability, distinct facial features, heart defects",Gender Neutral,Congenital (lifelong),"Supportive care, therapies"
+Drug Allergy,"Rash, itching, swelling, anaphylaxis",Gender Neutral,Any age,"Antihistamines (diphenhydramine), epinephrine (for severe reactions)"
+Dandruff (Seborrheic Dermatitis),"Flaky scalp, itching, redness",More common in males,Teens to adults,"Antifungal shampoos (ketoconazole), coal tar shampoos"
+Dehydration,"Thirst, dry mouth, dizziness, dark urine",Gender Neutral,Any age (high-risk in elderly & infants),"Oral rehydration solutions (ORS), IV fluids (if severe)"
+Delusional Disorder,"Fixed false beliefs (e.g., paranoia), otherwise normal functioning",Gender Neutral,40+ years,"Antipsychotics (risperidone), therapy"
+Dermatomyositis,"Muscle weakness, skin rash (purple/red patches)",More common in females,40-60 years,"Corticosteroids (prednisone), immunosuppressants"
+Diabetic Neuropathy,"Numbness/tingling in hands/feet, burning pain",Gender Neutral,Adults with long-term diabetes,"Gabapentin, duloxetine"
+Diphyllobothriasis (Fish Tapeworm),"Abdominal discomfort, diarrhea, vitamin B12 deficiency",Gender Neutral,Any age,Praziquantel
+Discoid Lupus (Cutaneous Lupus),"Coin-shaped sores, scarring, hair loss",More common in females,20-50 years,"Topical steroids, hydroxychloroquine"
+Dissociative Identity Disorder (DID),"Multiple identities, memory gaps, detachment",More common in females,Teens to adults,Therapy (no specific medication)
+Dracunculiasis (Guinea Worm Disease),"Painful skin blister, worm emerging from skin",Gender Neutral,Any age,Slow worm extraction (no drug treatment)
+Dry Mouth (Xerostomia),"Sticky mouth, frequent thirst, bad breath",More common in females,50+ years,"Saliva substitutes, pilocarpine"
+Duchenne Muscular Dystrophy,"Progressive muscle weakness, difficulty walking",Male (X-linked),Childhood (diagnosed by age 5),"Corticosteroids (prednisone), physical therapy"
+Dysarthria,"Slurred speech, slow speech, difficulty articulating",Gender Neutral,Any age (often after stroke or brain injury),Speech therapy
+Dyshidrotic Eczema,"Small blisters on hands/feet, itching",Gender Neutral,20-40 years,"Topical steroids, antihistamines"
+Dyspepsia (Indigestion),"Stomach pain, bloating, nausea",Gender Neutral,Any age,"Antacids, PPIs (omeprazole)"
+Dystonia,"Involuntary muscle contractions, twisting movements",Gender Neutral,Any age,"Botulinum toxin injections, muscle relaxants"
+Dengue Hemorrhagic Fever,"High fever, bleeding, plasma leakage",Gender Neutral,Any age,"IV fluids, supportive care"
+Diabetic Retinopathy,"Blurred vision, floaters, vision loss",Gender Neutral,Adults with long-term diabetes,"Laser surgery, anti-VEGF injections"
+Disseminated Intravascular Coagulation (DIC),"Bleeding, bruising, organ failure",Gender Neutral,Any age,"Treat underlying cause, blood products"
+Double Vision (Diplopia),"Seeing two images, eye misalignment",Gender Neutral,Any age,"Prism glasses, surgery (if nerve/muscle issue)"
+Drug-Induced Liver Injury,"Jaundice, nausea, fatigue",More common in females,Any age,"Discontinue offending drug, supportive care"
+Duodenal Ulcer,"Burning stomach pain, bloating, nausea",More common in males,30-60 years,"PPIs (omeprazole), antibiotics (if H. pylori)"
+Dwarfism (Achondroplasia),"Short stature, disproportionate limbs",Gender Neutral,Congenital (lifelong),Growth hormone (in some cases)
+Dysautonomia,"Dizziness, fainting, irregular heartbeat",More common in females,Teens to adults,"Fludrocortisone, midodrine"
+Dysgraphia,"Difficulty writing, poor handwriting",More common in males,Childhood (often with ADHD/dyslexia),Occupational therapy
+Dysphagia (Difficulty Swallowing),"Choking, coughing while eating, pain swallowing",Gender Neutral,Elderly (60+ years),"Treat underlying cause, swallowing therapy"
+Dysthymia (Persistent Depressive Disorder),"Chronic low mood, fatigue, poor concentration",More common in females,Teens to adults,"SSRIs (sertraline), therapy"
+Dengue Shock Syndrome,Severe dengue with dangerously low blood pressure,Gender Neutral,Any age,"IV fluids, ICU care"
+Diabetic Ketoacidosis (DKA),"Nausea, fruity breath, confusion, dehydration",Gender Neutral,Any age (type 1 diabetics),"IV insulin, fluids, electrolytes"
+Diarrhea (Acute Infectious),"Loose stools, abdominal cramps, dehydration",Gender Neutral,Any age,"ORS, loperamide (if no fever/blood)"
+Diffuse Large B-cell Lymphoma (DLBCL),"Swollen lymph nodes, fever, weight loss",More common in males,60+ years,Chemotherapy (R-CHOP)
+Dislocated Shoulder,"Severe pain, inability to move arm, visible deformity",More common in males,Teens to 40s,"Reduction (manual relocation), sling"
+Disseminated Sclerosis (Multiple Sclerosis),"Fatigue, numbness, vision problems, poor coordination",More common in females,20-50 years,Disease-modifying therapies (interferon-beta)
+Dumping Syndrome,"Nausea, diarrhea, dizziness after eating",Gender Neutral,Any age (post-gastric surgery),"Dietary changes, octreotide (if severe)"
+Dyskeratosis Congenita,"Abnormal skin pigmentation, nail dystrophy, bone marrow failure",Gender Neutral,Childhood,"Bone marrow transplant, supportive care"
+Eczema (Atopic Dermatitis),"Itchy, red, dry skin patches",Gender Neutral,Usually begins in childhood (may persist into adulthood),"Topical corticosteroids (hydrocortisone), antihistamines"
+Epilepsy,"Recurrent seizures, temporary confusion, staring spells",Gender Neutral,Any age (peaks in childhood & >60yrs),"Anticonvulsants (levetiracetam, valproate)"
+Ebola Virus Disease,"Fever, severe headache, muscle pain, hemorrhaging",Gender Neutral,Any age,"Supportive care, experimental antivirals (remdesivir)"
+Endometriosis,"Painful periods, pelvic pain, infertility",Female,25-40 years,"Hormonal therapy (progestins), NSAIDs, surgery"
+Emphysema,"Shortness of breath, chronic cough, wheezing",More common in males,40+ years,"Bronchodilators (tiotropium), oxygen therapy"
+Erectile Dysfunction,Inability to achieve/maintain erection,Male,40+ years,"PDE5 inhibitors (sildenafil), testosterone therapy"
+Esophageal Cancer,"Difficulty swallowing, weight loss, chest pain",More common in males,50+ years,"Surgery, chemotherapy, radiation"
+Ear Infection (Otitis Media),"Ear pain, fever, hearing loss (in children)",Gender Neutral,Mostly children (6m-2yrs),"Antibiotics (amoxicillin), pain relievers"
+Eosinophilic Esophagitis,"Difficulty swallowing, food impaction, heartburn",More common in males,15-40 years,"Steroid inhalers (swallowed), PPIs"
+Encephalitis,"Fever, headache, confusion, seizures",Gender Neutral,Any age,"Antivirals (acyclovir), supportive care"
+Edema,"Swelling in limbs, puffiness, stretched skin",Gender Neutral,Any age,"Diuretics (furosemide), treat underlying cause"
+Ehlers-Danlos Syndrome,"Joint hypermobility, stretchy skin, easy bruising",Gender Neutral,Congenital (lifelong),"Pain management, physical therapy"
+Essential Tremor,Uncontrollable shaking (hands/head/voice),Gender Neutral,40+ years,"Propranolol, primidone"
+Ewing Sarcoma,"Bone pain, swelling, fever, fractures",Slightly more common in males,10-20 years,"Chemotherapy, radiation, surgery"
+Ebola Hemorrhagic Fever,Same as Ebola Virus Disease (more severe bleeding),Gender Neutral,Any age,"Supportive care, IV fluids"
+Erythema Multiforme,"Target-shaped rashes, fever, joint pain",Gender Neutral,20-40 years,"Antihistamines, corticosteroids"
+Esophagitis,"Painful swallowing, heartburn, chest pain",Gender Neutral,Any age,"PPIs (omeprazole), antacids"
+Ectopic Pregnancy,"Abdominal pain, vaginal bleeding, dizziness",Female,20-35 years,"Methotrexate, surgery"
+Enteritis,"Diarrhea, abdominal cramps, nausea",Gender Neutral,Any age,"Hydration, antibiotics (if bacterial)"
+Erythema Nodosum,Painful red nodules (usually on shins),More common in females,20-40 years,"NSAIDs, potassium iodide"
+Empyema,"Fever, chest pain, cough with pus",Gender Neutral,Any age,"Antibiotics, chest tube drainage"
+Epididymitis,"Scrotal pain, swelling, fever",Male,15-35 years,"Antibiotics (doxycycline), NSAIDs"
+Epiglottitis,"Severe sore throat, drooling, difficulty breathing",Gender Neutral,Children 2-6yrs (now rare due to Hib vaccine),"IV antibiotics (ceftriaxone), airway management"
+Erysipelas,"Red, swollen, painful skin lesions with fever",Gender Neutral,Infants & elderly,Antibiotics (penicillin)
+Essential Hypertension,Often asymptomatic; severe cases cause headaches,Gender Neutral,30+ years,"ACE inhibitors (lisinopril), diuretics"
+Exostosis (Osteochondroma),"Bony growths near joints, sometimes pain",Gender Neutral,10-20 years,Surgical removal (if problematic)
+Exercise-Induced Asthma,"Wheezing, coughing, chest tightness during/after exercise",Gender Neutral,Any age,Albuterol inhaler (pre-exercise)
+Extrapyramidal Symptoms,"Muscle stiffness, tremors, restlessness (drug-induced)",Gender Neutral,Any age,Anticholinergics (benztropine)
+Ectropion,"Eyelid turning outward, dryness, irritation",More common in elderly females,60+ years,"Artificial tears, surgery"
+Eosinophilia,Often asymptomatic; cough/fatigue if severe,Gender Neutral,Any age,Treat underlying cause (allergies/parasites)
+Epidermolysis Bullosa,"Fragile skin, blisters from minor trauma",Gender Neutral,Congenital (lifelong),"Wound care, pain management"
+Erythromelalgia,"Burning pain, redness in hands/feet",More common in females,Any age,"Aspirin, gabapentin"
+Esophageal Varices,"Vomiting blood, black stools, shock (if ruptured)",More common in males,Adults with liver disease,"Beta-blockers (propranolol), band ligation"
+Euthyroid Sick Syndrome,Abnormal thyroid tests without true thyroid disease,Gender Neutral,Any age (during severe illness),Treat underlying condition
+Exfoliative Dermatitis,"Widespread skin peeling, redness, itching",More common in males,Adults,"Corticosteroids, antihistamines"
+Eye Strain (Asthenopia),"Tired eyes, headaches, blurred vision",Gender Neutral,Any age,"Rest, artificial tears, proper lighting"
+Ewingella Americana Infection,"Fever, sepsis (rare infection)",Gender Neutral,Any age,Antibiotics (ciprofloxacin)
+Early Menopause (Premature Ovarian Insufficiency),"Hot flashes, irregular periods, vaginal dryness",Female,<40 years,Hormone replacement therapy
+Ebstein's Anomaly,"Heart murmur, cyanosis, fatigue (congenital heart defect)",Gender Neutral,Congenital (present at birth),"Surgery, medications for heart failure"
+Echinococcosis (Hydatid Disease),"Cysts in liver/lungs, abdominal pain",Gender Neutral,Any age,"Albendazole, surgical removal"
+Ectodermal Dysplasia,"Sparse hair, missing teeth, inability to sweat",Gender Neutral,Congenital (lifelong),"Symptomatic treatment (artificial tears, dentures)"
+Empty Sella Syndrome,Often asymptomatic; sometimes headaches,More common in females,30-50 years,Hormone replacement (if deficient)
+Enchondroma,Usually asymptomatic; may cause bone pain/fractures,Gender Neutral,10-40 years,"Monitoring, surgery (if malignant)"
+Enterobiasis (Pinworm Infection),"Anal itching, restlessness (especially at night)",Gender Neutral,Children (5-10yrs),"Albendazole, mebendazole"
+Epispadias,Abnormal urethral opening (congenital),More common in males,Congenital,Surgical correction
+Erythroplakia,Red patches in mouth (precancerous),More common in males,40+ years,"Surgical removal, monitoring"
+Essential Thrombocythemia,"Headaches, dizziness, blood clots",More common in females,50+ years,"Hydroxyurea, aspirin"
+Ewing's Tumor (Peripheral Primitive Neuroectodermal Tumor),"Similar to Ewing Sarcoma (bone pain, swelling)",Slightly more common in males,Children/young adults,"Chemotherapy, radiation"
+Exocrine Pancreatic Insufficiency,"Fatty diarrhea, weight loss, bloating",Gender Neutral,Any age,Pancreatic enzyme supplements (creon)
+Extrinsic Allergic Alveolitis,"Cough, fever, shortness of breath (from allergens)",Gender Neutral,Adults,"Corticosteroids, avoid allergen"
+Fibromyalgia,"Chronic widespread pain, fatigue, sleep disturbances",More common in females (75-90% of cases),20-50 years,"Duloxetine, pregabalin, amitriptyline"
+Food Poisoning,"Nausea, vomiting, diarrhea, abdominal cramps",Gender Neutral,Any age,"Hydration, loperamide (for adults), antibiotics if bacterial"
+Folliculitis,"Red bumps around hair follicles, itching, pus-filled blisters",Gender Neutral,Any age,"Topical antibiotics (mupirocin), antifungal creams"
+Fungal Nail Infection (Onychomycosis),"Thickened, discolored, brittle nails",More common in males,Adults (risk increases with age),"Oral antifungals (terbinafine), topical ciclopirox"
+Farsightedness (Hyperopia),"Blurry near vision, eye strain, headaches",Gender Neutral,Any age (often present at birth),"Corrective lenses, refractive surgery"
+Fifth Disease (Erythema Infectiosum),"""Slapped cheek"" rash, fever, joint pain",Gender Neutral,Children 5-15 years,Supportive care (no specific treatment)
+Folate Deficiency Anemia,"Fatigue, pale skin, irritability, tongue swelling",Gender Neutral,Any age,Folic acid supplements
+Frozen Shoulder (Adhesive Capsulitis),"Shoulder pain and stiffness, limited range of motion",More common in females,40-60 years,"Physical therapy, corticosteroid injections"
+Familial Hypercholesterolemia,"High LDL cholesterol, xanthomas (cholesterol deposits)",Gender Neutral,Any age (often diagnosed in childhood),"Statins (atorvastatin), PCSK9 inhibitors"
+Fetal Alcohol Syndrome,"Growth deficiencies, facial abnormalities, learning disabilities",Gender Neutral,Congenital (lifelong),Supportive therapies (no cure)
+Fibrocystic Breast Changes,"Lumpy, tender breasts (cyclical with periods)",Female,20-50 years,"Pain relievers (ibuprofen), evening primrose oil"
+Flat Feet (Pes Planus),"Absent foot arches, foot pain, overpronation",Gender Neutral,Any age,"Orthotics, supportive shoes"
+Focal Segmental Glomerulosclerosis (FSGS),"Proteinuria, edema, high blood pressure",More common in males,Any age,"Corticosteroids, immunosuppressants"
+Fragile X Syndrome,"Intellectual disability, elongated face, large ears",More severe in males,Congenital (lifelong),"Behavioral therapy, symptom management"
+Frontotemporal Dementia,"Personality changes, language difficulties, compulsive behaviors",Gender Neutral,40-65 years,"SSRIs, antipsychotics (for behavioral symptoms)"
+Fructose Intolerance,"Bloating, diarrhea, abdominal pain after eating fruit",Gender Neutral,Any age,Fructose-free diet
+Fuchs' Dystrophy,"Blurred vision (worse in morning), glare sensitivity",More common in females,50+ years,"Hypertonic saline drops, corneal transplant"
+Functional Dyspepsia,"Chronic indigestion, early satiety, bloating",Gender Neutral,Adults,"PPIs (omeprazole), prokinetics"
+Furuncle (Boil),"Painful, pus-filled skin bump",Gender Neutral,Any age,"Warm compresses, incision & drainage"
+Febrile Seizures,Convulsions with high fever (in children),Gender Neutral,6m-5yrs,"Fever reducers (acetaminophen), usually self-limiting"
+Familial Mediterranean Fever,"Recurrent fever, abdominal pain, joint pain",Gender Neutral,Childhood onset,Colchicine
+Fanconi Anemia,"Bone marrow failure, birth defects, cancer risk",Gender Neutral,Congenital (lifelong),Bone marrow transplant
+Fatty Liver Disease (NAFLD),"Often asymptomatic; fatigue, right upper quadrant pain",More common in males,40+ years,"Weight loss, vitamin E (for NASH)"
+Female Sexual Dysfunction,"Low libido, pain during intercourse, arousal difficulties",Female,Adults,"Flibanserin, hormone therapy"
+Fibroadenoma,"Firm, movable breast lump (usually painless)",Female,15-35 years,"Monitoring, surgical removal (if large)"
+Filariasis (Elephantiasis),"Swollen limbs, thickened skin, fever",Gender Neutral,Any age,"Diethylcarbamazine, ivermectin"
+Fissured Tongue,Deep grooves on tongue surface,Gender Neutral,Any age,None needed (maintain oral hygiene)
+Floppy Infant Syndrome,"Poor muscle tone, feeding difficulties",Gender Neutral,Newborns,"Physical therapy, treat underlying cause"
+Folate Deficiency,Similar to folate deficiency anemia,Gender Neutral,Any age,Folic acid supplements
+Foreign Body Aspiration,"Choking, coughing, wheezing",Gender Neutral,Mostly children (1-3yrs),Bronchoscopic removal
+Fournier's Gangrene,"Severe genital pain, swelling, necrosis",Male,Adults,"Emergency surgery, broad-spectrum antibiotics"
+Freiberg's Disease,"Foot pain (usually 2nd metatarsal), limping",More common in females,10-15 years,"Rest, orthotics, surgery"
+Friedreich's Ataxia,"Progressive clumsiness, speech difficulties, heart problems",Gender Neutral,Childhood/early adulthood,"Physical therapy, idebenone"
+Frontonasal Dysplasia,"Facial abnormalities (wide-set eyes, cleft)",Gender Neutral,Congenital,Surgical reconstruction
+Functional Neurological Disorder,"Seizure-like episodes, paralysis, tremors (no organic cause)",More common in females,20-40 years,Cognitive behavioral therapy
+Furunculosis,Recurrent boils,Gender Neutral,Any age,"Antibiotics (clindamycin), bleach baths"
+Fascioliasis,"Abdominal pain, fever, jaundice (liver fluke infection)",Gender Neutral,Any age,Triclabendazole
+Febrile Neutropenia,Fever with very low neutrophil count,Gender Neutral,Any age (often chemotherapy patients),Broad-spectrum antibiotics
+Felty's Syndrome,"Rheumatoid arthritis with enlarged spleen, low WBC",More common in females,50-70 years,DMARDs (methotrexate)
+Fibrous Dysplasia,"Bone pain, deformities, fractures",Gender Neutral,Any age,"Bisphosphonates, surgery"
+Fitz-Hugh-Curtis Syndrome,Right upper quadrant pain (PID complication),Female,Sexually active women,Antibiotics (ceftriaxone + doxycycline)
+Floating-Harbor Syndrome,"Short stature, delayed bone age, speech delay",Gender Neutral,Congenital,Growth hormone therapy
+Follicular Lymphoma,"Swollen lymph nodes, fatigue, night sweats",Slightly more common in males,60+ years,"Rituximab, chemotherapy"
+Foot Drop,Difficulty lifting front part of foot,Gender Neutral,Any age,"Ankle braces, physical therapy"
+Foreign Body Granuloma,Persistent lump at injection/surgery site,Gender Neutral,Any age,"Steroid injections, excision"
+Foster Kennedy Syndrome,"Optic atrophy, papilledema, anosmia",Gender Neutral,Adults,Treat underlying brain tumor
+Fowler's Syndrome,Urinary retention (in young women),Female,20-30 years,Clean intermittent catheterization
+Fragile Skin Syndrome,"Easy bruising, skin tearing",Gender Neutral,Any age,"Protective measures, vitamin C"
+Frey's Syndrome,Facial sweating while eating,Gender Neutral,Any age,Botulinum toxin injections
+Functional Dysphonia,Hoarseness without structural abnormality,More common in females,Adults,Voice therapy
+Gastroenteritis,"Diarrhea, vomiting, abdominal cramps, fever",Gender Neutral,Any age,"Oral rehydration solutions, loperamide (adults), antibiotics if bacterial"
+Gallstones (Cholelithiasis),"Right upper abdominal pain, nausea, bloating",More common in females,30-50 years,"Ursodeoxycholic acid, cholecystectomy"
+Gout,"Sudden severe joint pain (often big toe), redness, swelling",More common in males,30-50 years,"Allopurinol, colchicine, NSAIDs"
+Gonorrhea,"Painful urination, discharge, pelvic pain (often asymptomatic)",More reported in females,15-24 years,Ceftriaxone + azithromycin
+Gastritis,"Stomach pain, nausea, bloating, loss of appetite",Gender Neutral,Any age,"PPIs (omeprazole), antacids"
+Glaucoma,"Gradual vision loss (peripheral first), eye pain (acute)",Gender Neutral,40+ years,"Eye drops (timolol), surgery"
+Giardiasis,"Watery diarrhea, gas, stomach cramps",Gender Neutral,Any age,"Metronidazole, tinidazole"
+German Measles (Rubella),"Mild fever, rash, swollen lymph nodes",Gender Neutral,Children (vaccine preventable),Supportive care
+Genital Herpes,"Painful blisters, itching, flu-like symptoms",More common in females,15-49 years,"Acyclovir, valacyclovir"
+Growth Hormone Deficiency,"Short stature, delayed puberty, increased fat",Gender Neutral,Childhood,Growth hormone injections
+Guillain-Barré Syndrome,"Muscle weakness starting in legs, paralysis",More common in males,Any age,"IVIG, plasma exchange"
+Gastric Ulcer,"Burning stomach pain, nausea, bloating",More common in males,30-60 years,"PPIs, antibiotics (if H. pylori)"
+Graves' Disease,"Bulging eyes, weight loss, rapid heartbeat",More common in females,20-40 years,"Methimazole, radioactive iodine"
+Ganglion Cyst,Soft lump on joints/tendons (usually wrist),More common in females,20-40 years,"Aspiration, surgical removal"
+Gilbert's Syndrome,"Mild jaundice, fatigue",More common in males,Teens to adults,None needed (benign)
+Gingivitis,"Red, swollen gums, bleeding when brushing",Gender Neutral,Any age,"Improved oral hygiene, antiseptic mouthwash"
+Goiter,"Swelling in neck, difficulty swallowing",More common in females,Any age,"Thyroid hormone, surgery"
+Granuloma Annulare,Ring-shaped skin lesions,More common in females,Children and young adults,Topical steroids
+Group B Strep Infection,"Fever in newborns, sepsis risk",Gender Neutral,Newborns,IV antibiotics (penicillin)
+Gastroparesis,"Nausea, vomiting, bloating, early satiety",More common in females,Any age,"Metoclopramide, dietary changes"
+Genital Warts,Flesh-colored bumps in genital area,Gender Neutral,15-49 years,"Imiquimod cream, cryotherapy"
+G6PD Deficiency,Hemolytic anemia triggered by certain foods/drugs,Male (X-linked),Any age,"Avoid triggers, blood transfusions"
+Gestational Diabetes,Usually asymptomatic; detected via screening,Female,Pregnant women,"Insulin, dietary control"
+Giant Cell Arteritis,"Headache, jaw pain, vision loss",More common in females,50+ years,Corticosteroids
+Giardia Lamblia Infection,Same as giardiasis,Gender Neutral,Any age,Metronidazole
+Glomerulonephritis,"Blood in urine, swelling, high blood pressure",Gender Neutral,Any age,"Corticosteroids, immunosuppressants"
+Goldenhar Syndrome,"Facial asymmetry, ear abnormalities",More common in males,Congenital,Surgical correction
+Gonococcal Arthritis,"Joint pain, swelling, fever",More common in females,15-40 years,Ceftriaxone
+Goodpasture Syndrome,"Coughing blood, kidney failure",More common in males,20-30 years,"Plasmapheresis, immunosuppressants"
+Graft-versus-Host Disease,"Rash, diarrhea, liver problems (post-transplant)",Gender Neutral,Any age,Immunosuppressants
+Granulomatosis with Polyangiitis,"Sinusitis, cough, kidney problems",Gender Neutral,40-65 years,"Cyclophosphamide, rituximab"
+Growing Pains,Leg pain in children (usually at night),Gender Neutral,3-12 years,"Massage, pain relievers"
+Guillain-Barre Syndrome,Same as Guillain-Barré (alternative spelling),More common in males,Any age,IVIG
+Gulf War Syndrome,"Fatigue, pain, cognitive problems",More common in males,Veterans,Symptomatic treatment
+Gum Disease (Periodontitis),"Receding gums, loose teeth, bad breath",Gender Neutral,30+ years,"Deep cleaning, antibiotics"
+Gynecomastia,Enlarged male breast tissue,Male,Puberty or 50+ years,"Tamoxifen, surgery"
+Gas Gangrene,"Severe pain, swelling, foul-smelling discharge",Gender Neutral,Any age,"Emergency surgery, antibiotics"
+Gastric Cancer,"Indigestion, weight loss, vomiting blood",More common in males,50+ years,"Surgery, chemotherapy"
+Geographic Tongue,Map-like patches on tongue,More common in females,Any age,None needed
+Geriatric Depression,"Persistent sadness, loss of interest",More common in females,65+ years,"SSRIs, therapy"
+Gilbert Syndrome,Same as Gilbert's (alternative spelling),More common in males,Teens to adults,None needed
+Glossitis,"Swollen, smooth, painful tongue",Gender Neutral,Any age,Treat underlying cause
+Glucose Intolerance,High blood sugar (pre-diabetes),Gender Neutral,Adults,"Metformin, lifestyle changes"
+Granuloma Inguinale,"Genital ulcers, bleeding",More common in males,20-40 years,Doxycycline
+Growing Skull Fracture,Progressive skull defect (in children),Gender Neutral,<3 years,Surgery
+Gulf Coast Tick Fever,"Fever, headache, rash",Gender Neutral,Any age,Doxycycline
+Gut Fermentation Syndrome,Drunkenness without alcohol consumption,Gender Neutral,Any age,"Antifungals, dietary changes"
+Guttate Psoriasis,"Small, drop-shaped red patches",Gender Neutral,Children/young adults,"Topical steroids, phototherapy"
+Gyrate Atrophy,"Night blindness, progressive vision loss",Gender Neutral,Childhood onset,"Vitamin B6, low-protein diet"
+Gingival Hyperplasia,Overgrown gum tissue,Gender Neutral,Any age,"Improved oral hygiene, surgical reduction"
+Hypertension (High Blood Pressure),"Often asymptomatic; severe cases cause headaches, dizziness",Gender Neutral,30+ years,"ACE inhibitors (lisinopril), diuretics (hydrochlorothiazide)"
+Hyperthyroidism (Graves' Disease),"Weight loss, rapid heartbeat, anxiety, tremors",More common in females,20-40 years,"Methimazole, radioactive iodine"
+Hypothyroidism,"Fatigue, weight gain, cold intolerance, depression",More common in females,Any age (peaks 30-50 years),Levothyroxine
+Heart Failure,"Shortness of breath, fatigue, swollen legs",Gender Neutral,50+ years,"Beta-blockers (carvedilol), diuretics (furosemide)"
+Hepatitis A,"Fever, fatigue, jaundice, nausea",Gender Neutral,Any age,"Supportive care, vaccination for prevention"
+Hepatitis B,"Fatigue, abdominal pain, jaundice (chronic cases asymptomatic)",Gender Neutral,Any age,"Antivirals (tenofovir), interferon"
+Hepatitis C,"Often asymptomatic; fatigue, joint pain in chronic cases",Gender Neutral,20+ years,Direct-acting antivirals (sofosbuvir/ledipasvir)
+Hemorrhoids,"Rectal bleeding, itching, pain during bowel movements",Gender Neutral,30+ years,"Fiber supplements, topical hydrocortisone"
+HIV/AIDS,"Fever, weight loss, recurrent infections",Gender Neutral (higher in males due to risk factors),15-49 years,Antiretroviral therapy (ART)
+Hives (Urticaria),Itchy red welts on skin,More common in females,Any age,"Antihistamines (loratadine), corticosteroids"
+Headache (Tension-Type),"Dull, squeezing head pain",More common in females,Teens to adults,"NSAIDs (ibuprofen), stress management"
+Heart Attack (Myocardial Infarction),"Chest pain, shortness of breath, nausea",More common in males,40+ years,"Aspirin, statins, beta-blockers"
+Hernia (Inguinal),"Bulge in groin, discomfort when lifting",More common in males,Any age,Surgical repair
+Herpes Zoster (Shingles),"Painful rash with blisters, usually on one side",Gender Neutral,50+ years,"Antivirals (valacyclovir), pain medication"
+Hypoglycemia,"Shakiness, sweating, confusion, rapid heartbeat",Gender Neutral,Any age,"Glucose tablets, dietary changes"
+Hashimoto's Thyroiditis,"Fatigue, weight gain, cold intolerance",More common in females,30-50 years,Levothyroxine
+Hand-Foot-and-Mouth Disease,"Fever, mouth sores, rash on hands/feet",Gender Neutral,Children <5 years,Supportive care
+Heat Stroke,"High body temperature, confusion, loss of consciousness",More common in males,Any age,"Cooling measures, IV fluids"
+Hemophilia,"Excessive bleeding, easy bruising",Male (X-linked),Congenital (lifelong),Factor VIII/IX replacement
+Hiatal Hernia,"Heartburn, chest pain, difficulty swallowing",Gender Neutral,50+ years,"PPIs (omeprazole), surgery"
+Hodgkin's Lymphoma,"Swollen lymph nodes, fever, night sweats",More common in males,15-40 and 55+ years,Chemotherapy (ABVD regimen)
+Huntington's Disease,"Uncontrolled movements, cognitive decline",Gender Neutral,30-50 years,Symptomatic treatment (tetrabenazine)
+Hyperlipidemia,None directly; detected via blood tests,Gender Neutral,Adults,Statins (atorvastatin)
+Hyperparathyroidism,"Fatigue, bone pain, kidney stones",More common in females,50+ years,Surgery
+Hypoparathyroidism,"Muscle cramps, tingling, seizures",Gender Neutral,Any age,Calcium/vitamin D supplements
+H. Pylori Infection,"Stomach pain, bloating, nausea",Gender Neutral,Any age,Antibiotic triple therapy
+Hay Fever (Allergic Rhinitis),"Sneezing, runny nose, itchy eyes",Gender Neutral,Any age,"Antihistamines (cetirizine), nasal steroids"
+Heart Murmur,Abnormal heart sounds (often benign),Gender Neutral,Any age,Treat underlying cause if needed
+Hemangioma,Red birthmark (usually harmless),More common in females,Infants,Propranolol (if treatment needed)
+Hemochromatosis,"Fatigue, joint pain, bronze skin",More common in males,40+ years,Phlebotomy
+Hemolytic Anemia,"Fatigue, pale skin, dark urine",Gender Neutral,Any age,"Corticosteroids, blood transfusions"
+Hemorrhagic Fever (Ebola/Dengue),"High fever, bleeding, shock",Gender Neutral,Any age,Supportive care
+Herniated Disc,"Back pain, radiating leg pain",More common in males,30-50 years,"NSAIDs, physical therapy"
+Histoplasmosis,"Fever, cough, chest pain",Gender Neutral,Any age,Antifungals (itraconazole)
+Hives (Chronic),Itchy welts lasting >6 weeks,More common in females,Adults,"Antihistamines, omalizumab"
+Hydrocele,Scrotal swelling,Male,Infants or elderly,Surgical repair
+Hydrocephalus,"Headache, nausea, balance problems",Gender Neutral,Any age,Shunt placement
+Hyperemesis Gravidarum,Severe nausea/vomiting during pregnancy,Female,Pregnant women,"Ondansetron, IV fluids"
+Hyperhidrosis,Excessive sweating,Gender Neutral,Teens to adults,"Antiperspirants, botox injections"
+Hypocalcemia,"Muscle cramps, numbness, seizures",Gender Neutral,Any age,Calcium/vitamin D
+Hypoglycemia (Reactive),Shakiness after eating,Gender Neutral,Adults,Dietary changes
+Hypopituitarism,"Fatigue, weight changes, sexual dysfunction",Gender Neutral,Any age,Hormone replacement
+Hypothermia,"Shivering, confusion, slow breathing",More common in males,Elderly,Gradual rewarming
+Hysterical Conversion Disorder,Neurologic symptoms without organic cause,More common in females,Teens to adults,Psychotherapy
+Hantavirus Pulmonary Syndrome,"Fever, cough, respiratory failure",More common in males,Adults,Supportive care
+Hallux Valgus (Bunion),Bony bump at big toe base,More common in females,Adults,"Orthotics, surgery"
+Heart Block,"Dizziness, fainting, fatigue",Gender Neutral,Elderly,Pacemaker
+Hemiballismus,Violent limb movements,Gender Neutral,Elderly,Antipsychotics
+Hypertrophic Cardiomyopathy,"Chest pain, shortness of breath",Gender Neutral,Teens to adults,Beta-blockers
+Hypersplenism,"Enlarged spleen, low blood counts",Gender Neutral,Adults,Treat underlying cause
+Influenza (Flu),"Fever, chills, muscle aches, cough, fatigue",Gender Neutral,Any age,"Oseltamivir (Tamiflu), rest, hydration"
+Irritable Bowel Syndrome (IBS),"Abdominal pain, bloating, diarrhea/constipation",More common in females,20-40 years,"Fiber supplements, antispasmodics (dicyclomine)"
+Iron Deficiency Anemia,"Fatigue, pale skin, weakness, shortness of breath",More common in females,Any age,Iron supplements (ferrous sulfate)
+Impetigo,"Honey-colored crusted sores, itching",Gender Neutral,Children 2-5 years,Topical antibiotics (mupirocin)
+Insomnia,"Difficulty falling/staying asleep, daytime fatigue",More common in females,Adults,"Cognitive behavioral therapy, zolpidem (short-term)"
+Ischemic Heart Disease,"Chest pain (angina), shortness of breath",More common in males,40+ years,"Statins, beta-blockers, aspirin"
+Inflammatory Bowel Disease (IBD),"Abdominal pain, diarrhea (bloody), weight loss",Gender Neutral,15-35 years,"Anti-inflammatories (mesalamine), biologics"
+Interstitial Cystitis,"Pelvic pain, urinary urgency/frequency",More common in females,30-50 years,"Pentosan polysulfate, bladder instillations"
+Intestinal Obstruction,"Abdominal pain, vomiting, constipation",Gender Neutral,Any age,"NPO, NG tube, surgery"
+Ichthyosis,"Dry, scaly, thickened skin",Gender Neutral,Congenital or acquired,"Emollients, retinoids"
+Infectious Mononucleosis,"Fever, sore throat, swollen lymph nodes",Gender Neutral,Teens/young adults,"Rest, hydration"
+Insulin Resistance,Often asymptomatic; acanthosis nigricans,Gender Neutral,Adults,"Metformin, lifestyle changes"
+Intertrigo,"Red rash in skin folds, itching",Gender Neutral,Any age,"Antifungal creams, barrier creams"
+Ischemic Stroke,"Sudden weakness, speech difficulty, facial droop",Gender Neutral,55+ years,"tPA (if early), aspirin, rehabilitation"
+Iritis (Anterior Uveitis),"Eye pain, redness, photophobia",Gender Neutral,20-50 years,Steroid eye drops
+Iron Overload (Hemochromatosis),"Fatigue, joint pain, bronze skin",More common in males,40+ years,Phlebotomy
+Impetigo Herpetiformis,Pustular rash during pregnancy,Female,Pregnant women,Corticosteroids
+Idiopathic Thrombocytopenic Purpura (ITP),"Bruising, petechiae, bleeding",More common in females,Children or young adults,"Corticosteroids, IVIG"
+Intermittent Claudication,Leg pain with walking,More common in males,50+ years,"Cilostazol, exercise"
+Inguinal Hernia,"Groin bulge, discomfort",More common in males,Any age,Surgical repair
+Infantile Colic,Excessive crying in healthy baby,Gender Neutral,Newborns (2 weeks - 4 months),None (resolves spontaneously)
+Inclusion Body Myositis,Progressive muscle weakness,More common in males,50+ years,"No cure, physical therapy"
+Immune Thrombocytopenia,Same as ITP,More common in females,Any age,Similar to ITP
+Irritable Hip (Transient Synovitis),"Hip pain, limping in children",More common in males,3-10 years,"NSAIDs, rest"
+Ischial Bursitis,"Buttock pain, tenderness",Gender Neutral,Adults,"NSAIDs, cushioning"
+Ichthyosis Vulgaris,Mild scaling skin,Gender Neutral,Childhood onset,Moisturizers
+Insulinoma,"Hypoglycemia, confusion, sweating",Gender Neutral,Adults,Surgical removal
+Interstitial Lung Disease,Progressive shortness of breath,Gender Neutral,50+ years,"Corticosteroids, oxygen"
+Intussusception,"Severe abdominal pain, vomiting (in infants)",More common in males,3 months - 3 years,Air enema reduction
+Iron Poisoning,"Vomiting, diarrhea, shock",Gender Neutral,Children (accidental ingestion),Deferoxamine
+Ischemic Colitis,"Abdominal pain, bloody diarrhea",More common in females,60+ years,"Bowel rest, IV fluids"
+Idiopathic Pulmonary Fibrosis,Progressive shortness of breath,More common in males,50+ years,"Pirfenidone, oxygen"
+Impetigo Contagiosa,Same as impetigo,Gender Neutral,Children,Same as impetigo
+Infectious Arthritis,"Hot, swollen, painful joint",Gender Neutral,Any age,IV antibiotics
+Insulin Allergy,Local redness/swelling at injection site,Gender Neutral,Any age,"Antihistamines, insulin rotation"
+Interstitial Nephritis,Often asymptomatic; may cause kidney failure,Gender Neutral,Any age,"Stop offending drug, corticosteroids"
+Intestinal Malrotation,"Vomiting, abdominal pain (in infants)",Gender Neutral,Newborns,Surgical correction
+Idiopathic Scoliosis,Abnormal spinal curvature,More common in females,10-15 years,"Bracing, surgery"
+Infant Botulism,"Weakness, poor feeding, constipation",Gender Neutral,Infants <1 year,Botulism immune globulin
+Inverted Nipple,Nipple retracted inward,Female,Any age,"Nipple shields, surgery"
+Isolated Systolic Hypertension,Often asymptomatic,Gender Neutral,Elderly,Thiazide diuretics
+Ichthyosis Bullosa of Siemens,Blistering with skin scaling,Gender Neutral,Infancy,Emollients
+Immune Complex Disease,Varies by organ affected,Gender Neutral,Any age,Immunosuppressants
+Intermittent Explosive Disorder,Episodes of aggressive outbursts,More common in males,Teens to adults,"SSRIs, therapy"
+Intestinal Pseudo-obstruction,Obstruction symptoms without blockage,Gender Neutral,Any age,Prokinetic agents
+Iron-Refractory Iron Deficiency Anemia,Same as iron deficiency anemia,Gender Neutral,Any age,IV iron
+Isolated Growth Hormone Deficiency,Short stature,Gender Neutral,Childhood,Growth hormone
+Idiopathic Guttate Hypomelanosis,Small white spots on skin,More common in females,40+ years,Cosmetic treatments
+Infectious Endocarditis,"Fever, heart murmur, fatigue",More common in males,Any age,IV antibiotics
+Inborn Errors of Metabolism,Varies by specific disorder,Gender Neutral,Usually infancy,Dietary management
+Jaundice,"Yellowing of skin/eyes, dark urine, pale stools",Gender Neutral,Any age (common in newborns),"Treat underlying cause (e.g., phototherapy for newborns)"
+Juvenile Idiopathic Arthritis (JIA),"Joint pain, swelling, stiffness in children",More common in females,Children (<16 years),"NSAIDs, DMARDs (methotrexate)"
+Japanese Encephalitis,"Fever, headache, seizures, confusion",Gender Neutral,Any age (endemic areas),"Supportive care, vaccination for prevention"
+Jock Itch (Tinea Cruris),"Red, itchy rash in groin area",More common in males,Teens to adults,Antifungal creams (clotrimazole)
+Junctional Epidermolysis Bullosa,"Fragile skin, blisters from minor trauma",Gender Neutral,Infancy (congenital),"Wound care, pain management"
+Jejunal Atresia,"Vomiting, abdominal distension (in newborns)",Gender Neutral,Newborns,Surgical repair
+Jet Lag,"Fatigue, insomnia, digestive issues after travel",Gender Neutral,Any age,"Melatonin, light therapy"
+Juvenile Diabetes (Type 1 Diabetes),"Excessive thirst, weight loss, fatigue",Gender Neutral,Children/teens,Insulin therapy
+Jaccoud’s Arthropathy,Joint deformities (reversible),More common in females,Adults,Treat underlying rheumatic disease
+Jaw Dislocation (TMJ Dislocation),"Inability to close mouth, pain",More common in females,Adults,"Manual reduction, muscle relaxants"
+Juvenile Polyposis Syndrome,"Multiple polyps in GI tract, bleeding",Gender Neutral,Childhood/teens,"Endoscopic removal, surgery"
+Jansen’s Metaphyseal Chondrodysplasia,"Short stature, bowed legs",Gender Neutral,Congenital,Supportive care
+Job Syndrome (Hyper-IgE Syndrome),"Recurrent infections, eczema, high IgE",Gender Neutral,Childhood,"Antibiotics, antifungals"
+Jugular Vein Thrombosis,"Neck pain, swelling, headache",Gender Neutral,Adults,Anticoagulants (heparin)
+Juvenile Myoclonic Epilepsy,"Muscle jerks, seizures (morning)",Gender Neutral,Teens,Anticonvulsants (valproate)
+Junctional Rhythm (Heart),Often asymptomatic; slow heart rate,Gender Neutral,Any age,Pacemaker (if symptomatic)
+Jessner’s Lymphocytic Infiltrate,Red plaques on face/neck,More common in females,Adults,Topical steroids
+Juvenile Hyaline Fibromatosis,"Skin nodules, joint contractures",Gender Neutral,Infancy/childhood,Surgical removal of nodules
+Jumping Frenchmen of Maine,Exaggerated startle response,Gender Neutral,Any age,Clonazepam
+Jejunal Diverticulosis,"Often asymptomatic; bloating, diarrhea",Gender Neutral,50+ years,"Dietary fiber, antibiotics if infected"
+Jarcho-Levin Syndrome,"Rib/spine abnormalities, respiratory issues",Gender Neutral,Congenital,Supportive care
+Juvenile Osteoporosis,"Bone fractures, back pain",Gender Neutral,Children/teens,Bisphosphonates
+Junctional Nevus,"Flat, dark mole",Gender Neutral,Any age,"Monitoring, excision if suspicious"
+Jod-Basedow Phenomenon,Hyperthyroidism after iodine exposure,Gender Neutral,Any age,Antithyroid drugs
+Juvenile Xanthogranuloma,Yellowish skin nodules,Gender Neutral,Infants/children,Usually resolves spontaneously
+Kawasaki Disease,"Fever, rash, swollen hands/feet, red eyes",More common in males,Children <5 years,"IV immunoglobulin, aspirin"
+Keratitis,"Eye pain, redness, blurred vision",Gender Neutral,Any age,Antibiotic/antifungal eye drops
+Kidney Stones (Nephrolithiasis),"Severe flank pain, blood in urine, nausea",More common in males,30-60 years,"Pain relievers (NSAIDs), hydration"
+Keloid,"Raised, thickened scar tissue",More common in females,10-30 years,"Steroid injections, silicone gels"
+Klinefelter Syndrome,"Tall stature, small testes, infertility",Male,Congenital (lifelong),Testosterone therapy
+Kyphosis,Excessive rounding of the upper back,Gender Neutral,Teens (Scheuermann’s) or elderly,"Physical therapy, bracing"
+Kaposi’s Sarcoma,"Purple skin lesions, swelling",More common in males,Adults (HIV-associated),"Chemotherapy, antiretrovirals"
+Keratosis Pilaris,"Rough, bumpy skin (chicken skin)",Gender Neutral,Children to adults,"Moisturizers, lactic acid creams"
+Klebsiella Infection,"Pneumonia, UTIs, wound infections",Gender Neutral,Any age,Antibiotics (carbapenems)
+Kwashiorkor,"Edema, skin lesions, hair loss",Gender Neutral,Children (severe malnutrition),Nutritional rehabilitation
+Korsakoff Syndrome,"Memory loss, confusion (alcohol-related)",More common in males,40+ years,"Thiamine, abstinence"
+Knee Osteoarthritis,"Joint pain, stiffness, swelling",More common in females,50+ years,"NSAIDs, hyaluronic acid injections"
+Keloid Scars,Same as keloid,More common in females,10-30 years,Same as keloid
+Keratoconus,"Blurred vision, light sensitivity",Gender Neutral,Teens to 30s,"Rigid contact lenses, corneal cross-linking"
+Krabbe Disease,"Muscle weakness, developmental delay",Gender Neutral,Infancy (fatal by age 2),Supportive care
+Kidney Infection (Pyelonephritis),"Fever, flank pain, painful urination",More common in females,Any age,Antibiotics (ciprofloxacin)
+Klippel-Feil Syndrome,"Short neck, limited mobility",Gender Neutral,Congenital,"Physical therapy, surgery"
+Keratoconjunctivitis Sicca (Dry Eye Syndrome),"Dry, gritty eyes, redness",More common in females,50+ years,"Artificial tears, cyclosporine drops"
+Kuru,"Tremors, loss of coordination (prion disease)",Gender Neutral,Adults,No cure (fatal)
+Knee Bursitis,"Swelling, pain over kneecap",Gender Neutral,Adults,"NSAIDs, aspiration"
+Klippel-Trenaunay Syndrome,"Port-wine stain, limb overgrowth",Gender Neutral,Congenital,"Compression therapy, surgery"
+Kala-Azar (Visceral Leishmaniasis),"Fever, weight loss, enlarged spleen",Gender Neutral,Any age,Amphotericin B
+Kartagener’s Syndrome,"Chronic sinusitis, bronchiectasis, infertility",Gender Neutral,Congenital,"Antibiotics, chest physiotherapy"
+Keratoacanthoma,Dome-shaped skin tumor,More common in males,50+ years,Surgical excision
+Kidney Cysts (Simple),Often asymptomatic; may cause pain,Gender Neutral,50+ years,"Monitoring, drainage if symptomatic"
+Kleine-Levin Syndrome,"Excessive sleep, hyperphagia",More common in males,Teens,Stimulants (modafinil)
+Klippel-Feil Sequence,Same as Klippel-Feil Syndrome,Gender Neutral,Congenital,Same as Klippel-Feil
+Kyasanur Forest Disease,"Fever, headache, bleeding",Gender Neutral,Any age,Supportive care
+Kaposi’s Varicelliform Eruption,Blistering rash (eczema herpeticum),Gender Neutral,Any age,Antivirals (acyclovir)
+Keratoderma Blenorrhagicum,Skin lesions (Reiter’s syndrome),More common in males,20-40 years,Treat underlying condition
+Kidney Failure (Acute),"Reduced urine output, swelling, confusion",Gender Neutral,Any age,"Dialysis, treat cause"
+Kienböck’s Disease,"Wrist pain, stiffness",More common in males,20-40 years,Surgery
+Kikuchi Disease,"Swollen lymph nodes, fever",More common in females,Teens to 30s,NSAIDs
+Klippel-Trénaunay-Weber Syndrome,Similar to Klippel-Trenaunay,Gender Neutral,Congenital,Same as Klippel-Trenaunay
+Knee Ligament Tear (ACL),"Knee instability, swelling, pain",More common in females,Teens to 40s,"Surgery, physical therapy"
+Koilonychia (Spoon Nails),Concave nails,Gender Neutral,Any age,Treat iron deficiency
+Korsakoff Psychosis,Same as Korsakoff Syndrome,More common in males,40+ years,Same as Korsakoff
+Krukenberg Tumor,Ovarian metastasis (from GI cancer),Female,Adults,Chemotherapy
+Kuru Plaques,Neurologic decline (prion disease),Gender Neutral,Adults,No treatment
+Kyphoscoliosis,Hunched back with sideways curvature,Gender Neutral,Congenital or acquired,"Bracing, surgery"
+Keratosis Follicularis (Darier’s Disease),"Scaly skin patches, nail ridges",Gender Neutral,Teens to adults,Retinoids
+Kidney Dysplasia,Often asymptomatic; may cause hypertension,Gender Neutral,Congenital,Blood pressure control
+Kimmelstiel-Wilson Disease,Kidney damage (diabetes complication),Gender Neutral,Adults with diabetes,Blood sugar control
+Knuckle Pads,Thickened skin over knuckles,Gender Neutral,Adults,None (benign)
+Kocher-Debre-Semelaigne Syndrome,Muscle hypertrophy with hypothyroidism,Gender Neutral,Childhood,Thyroid hormone
+Kugelberg-Welander Disease,Muscle weakness (juvenile ALS),Gender Neutral,Childhood,Supportive care
+Kveim Test Reaction,Skin granuloma (sarcoidosis diagnosis),Gender Neutral,Adults,None (diagnostic test)
+Kyphosis Dorsalis Juvenilis,Same as Scheuermann’s kyphosis,Gender Neutral,Teens,Same as kyphosis
+Karyomegalic Interstitial Nephritis,Kidney failure,Gender Neutral,Adults,Dialysis
+Keratomalacia,Corneal ulceration (vitamin A deficiency),Gender Neutral,Children,Vitamin A supplementation
+Lyme Disease,"Bullseye rash, fever, joint pain, fatigue",Gender Neutral,Any age,"Doxycycline, amoxicillin"
+Lupus (SLE),"Butterfly rash, joint pain, fatigue, kidney problems",More common in females (90%),15-45 years,"Hydroxychloroquine, corticosteroids"
+Lung Cancer,"Persistent cough, chest pain, weight loss, coughing blood",More common in males,50+ years,"Surgery, chemotherapy, immunotherapy"
+Leukemia,"Fatigue, frequent infections, easy bruising",Gender Neutral,All ages (peaks in childhood & >55 yrs),"Chemotherapy, targeted therapy"
+Laryngitis,"Hoarse voice, sore throat, dry cough",Gender Neutral,Any age,"Rest, hydration, voice rest"
+Liver Cirrhosis,"Fatigue, jaundice, abdominal swelling",More common in males,40+ years,"Diuretics, liver transplant"
+Lymphoma (Hodgkin's & Non-Hodgkin's),"Swollen lymph nodes, fever, night sweats",More common in males,15-40 & 55+ years,"Chemotherapy, radiation"
+Legg-Calvé-Perthes Disease,"Hip pain, limping (in children)",More common in males,4-10 years,"Physical therapy, surgery"
+Lead Poisoning,"Abdominal pain, irritability, developmental delays",Gender Neutral,Children <6 yrs (highest risk),Chelation therapy
+Lichen Planus,"Purple, itchy skin bumps, mouth sores",More common in females,30-60 years,"Corticosteroids, antihistamines"
+Labyrinthitis,"Vertigo, nausea, hearing loss",Gender Neutral,30-60 years,"Meclizine, steroids"
+Lactose Intolerance,"Bloating, diarrhea, gas after dairy",Gender Neutral,Any age,Lactase enzyme supplements
+Legionnaires' Disease,"High fever, cough, pneumonia",More common in males,50+ years,Antibiotics (azithromycin)
+Leishmaniasis,"Skin ulcers, fever, enlarged spleen",Gender Neutral,Any age,"Antimonials, miltefosine"
+Leprosy (Hansen's Disease),"Skin lesions, numbness, nerve damage",More common in males,Any age,Multidrug therapy (dapsone + rifampin)
+Leukoplakia,White patches in mouth (precancerous),More common in males,40+ years,"Smoking cessation, surgical removal"
+Lipoma,"Soft, movable fatty lump under skin",Gender Neutral,40-60 years,Surgical removal (if bothersome)
+Listeriosis,"Fever, muscle aches, diarrhea (severe in pregnancy)",Higher risk in pregnancy,Any age,Antibiotics (ampicillin)
+Lockjaw (Tetanus),"Muscle spasms, jaw stiffness, fever",Gender Neutral,Any age,"Tetanus immune globulin, vaccination"
+Lou Gehrig's Disease (ALS),"Muscle weakness, paralysis, difficulty speaking",More common in males,40-70 years,"Riluzole, supportive care"
+Low Back Pain,Ache/stiffness in lower back,Gender Neutral,30-60 years,"NSAIDs, physical therapy"
+Lumbago,Same as low back pain,Gender Neutral,Adults,Same as low back pain
+Lupus Nephritis,"Blood/protein in urine, swelling (SLE complication)",More common in females,20-40 years,Immunosuppressants
+Lyme Arthritis,"Joint swelling (knees), pain (late Lyme complication)",Gender Neutral,Any age,Doxycycline
+Lymphadenitis,"Swollen, tender lymph nodes",Gender Neutral,Any age,Antibiotics (if bacterial)
+Lymphangitis,"Red streaks on skin, fever",Gender Neutral,Any age,Antibiotics (penicillin)
+Lynch Syndrome,"Increased cancer risk (colon, endometrial)",Gender Neutral,Adults,Frequent cancer screening
+Laryngopharyngeal Reflux (LPR),"Chronic cough, hoarseness, throat clearing",Gender Neutral,Adults,PPIs (omeprazole)
+Lazy Eye (Amblyopia),Poor vision in one eye,Gender Neutral,Childhood,"Eye patching, vision therapy"
+Leg Cramps (Nocturnal),Sudden calf pain at night,More common in females,50+ years,Quinine (in severe cases)
+Leiomyoma (Uterine Fibroids),"Heavy periods, pelvic pain",Female,30-50 years,"Hormonal therapy, surgery"
+Leptospirosis,"High fever, headache, jaundice",More common in males,Any age,"Doxycycline, penicillin"
+Leukocytoclastic Vasculitis,"Purple spots on legs, joint pain",Gender Neutral,Adults,Corticosteroids
+Lichen Sclerosus,"White patches on genitals, itching",More common in females,Postmenopausal women,Topical steroids
+Lipodystrophy,Abnormal fat distribution,Gender Neutral,Any age,Leptin therapy
+Lissencephaly,"Developmental delays, seizures",Gender Neutral,Congenital,Supportive care
+Long COVID,"Fatigue, brain fog, shortness of breath",More common in females,Adults,Symptomatic treatment
+Louse-Borne Typhus,"Fever, headache, rash",Gender Neutral,Any age,Doxycycline
+Lumbosacral Radiculopathy,"Sciatica, leg numbness/weakness",Gender Neutral,30-50 years,"NSAIDs, physical therapy"
+Lupus Erythematosus,Same as SLE,More common in females,15-45 years,Same as SLE
+Lyme Carditis,"Heart palpitations, fainting (Lyme complication)",Gender Neutral,Any age,IV antibiotics
+Lymphocytic Colitis,Chronic watery diarrhea,More common in females,50+ years,Budesonide
+Lymphogranuloma Venereum (LGV),"Genital ulcers, swollen lymph nodes",More common in males,20-40 years,Doxycycline
+Lymphedema,Swelling in arms/legs,Gender Neutral,Any age,Compression therapy
+Lynch Syndrome,Same as #552 (HNPCC),Gender Neutral,Adults,Same as #552
+Laryngomalacia,Noisy breathing (stridor) in infants,More common in males,Infants,Usually resolves by age 2
+Leber's Hereditary Optic Neuropathy,Sudden vision loss,More common in males,Teens to 30s,Idebenone
+Lemierre's Syndrome,"Sore throat, neck pain, sepsis",Gender Neutral,Teens to young adults,IV antibiotics
+Lipedema,Painful fat accumulation in legs,Female,Puberty or later,Compression therapy
+Löfgren Syndrome,"Fever, arthritis, erythema nodosum (sarcoidosis variant)",More common in females,20-40 years,NSAIDs
+Migraine,"Throbbing headache, nausea, light/sound sensitivity",More common in females (3:1 ratio),15-55 years,"Triptans (sumatriptan), NSAIDs"
+Malaria,"High fever, chills, flu-like illness",Gender Neutral,Any age,Artemisinin-based combination therapy
+Multiple Sclerosis (MS),"Fatigue, numbness, vision problems, poor coordination",More common in females (2:1 ratio),20-50 years,Disease-modifying therapies (interferon-beta)
+Myocardial Infarction (Heart Attack),"Chest pain, shortness of breath, nausea",More common in males,40+ years,"Aspirin, statins, beta-blockers"
+Meningitis,"Fever, stiff neck, headache, confusion",Gender Neutral,Any age (severe in infants/elderly),"Antibiotics (bacterial), antivirals (viral)"
+Macular Degeneration (AMD),Blurred/central vision loss,Gender Neutral,50+ years,Anti-VEGF injections (wet AMD)
+Mononucleosis (Mono),"Fatigue, sore throat, swollen lymph nodes",Gender Neutral,15-25 years,"Rest, hydration"
+Melanoma,"Changing mole, irregular borders, dark spots",Slightly more common in males,30-60 years,"Surgical excision, immunotherapy"
+Mastitis,"Breast pain, swelling, fever",Female (lactating women),20-35 years,Antibiotics (dicloxacillin)
+Ménière's Disease,"Vertigo, tinnitus, hearing loss",More common in females,40-60 years,"Diuretics, anti-vertigo meds"
+Myopia (Nearsightedness),Blurred distance vision,Gender Neutral,Childhood onset,"Corrective lenses, LASIK"
+Mumps,"Swollen salivary glands, fever",Gender Neutral,Children (vaccine preventable),Supportive care
+Metabolic Syndrome,"Obesity, high blood pressure, insulin resistance",Gender Neutral,40+ years,"Lifestyle changes, metformin"
+Muscular Dystrophy,Progressive muscle weakness,More common in males (Duchenne type),Childhood onset,"Corticosteroids, physical therapy"
+Morton's Neuroma,"Foot pain, tingling between toes",More common in females,40-60 years,"Orthotics, corticosteroid injections"
+Myasthenia Gravis,"Muscle weakness, drooping eyelids","More common in females (<40), males (>60)",Any age,"Pyridostigmine, immunosuppressants"
+MRSA Infection,"Skin abscesses, pneumonia, sepsis",Gender Neutral,Any age,"Vancomycin, linezolid"
+Motion Sickness,"Nausea, dizziness, vomiting",More common in females,Any age,Antihistamines (dimenhydrinate)
+Multiple Myeloma,"Bone pain, fatigue, frequent infections",More common in males,60+ years,"Chemotherapy, stem cell transplant"
+Myxedema (Severe Hypothyroidism),"Swelling, low body temp, coma",More common in females,Adults,IV thyroid hormone
+Mastocytosis,"Itchy skin, flushing, abdominal pain",Gender Neutral,Any age,"Antihistamines, steroids"
+Marfan Syndrome,"Tall stature, long limbs, heart defects",Gender Neutral,Congenital (lifelong),"Beta-blockers, surgery"
+Molluscum Contagiosum,Small pearly skin bumps,Gender Neutral,Children (1-10 years),"Cryotherapy, topical cantharidin"
+Myocarditis,"Chest pain, arrhythmias, fatigue",More common in males,Any age,"NSAIDs, immunosuppressants"
+Melasma,Brown facial patches,Female (pregnancy-related),20-50 years,"Hydroquinone, sunscreen"
+Malaria (Plasmodium falciparum),Same as #577 (severe form),Gender Neutral,Any age,IV artesunate
+Milk Allergy,"Hives, vomiting, anaphylaxis",Gender Neutral,Infants/children,"Epinephrine, avoidance"
+Myofascial Pain Syndrome,"Muscle pain, trigger points",More common in females,30-60 years,"Physical therapy, trigger point injections"
+Mucormycosis,"Sinus pain, black nasal discharge",Gender Neutral,Immunocompromised adults,Amphotericin B
+Ménière's Syndrome,Same as Ménière's disease (#585),More common in females,40-60 years,Same as #585
+Microcephaly,"Small head, developmental delays",Gender Neutral,Congenital,Supportive therapies
+Malabsorption Syndrome,"Diarrhea, weight loss, nutrient deficiencies",Gender Neutral,Any age,Treat underlying cause
+Meralgia Paresthetica,"Thigh numbness, burning pain",More common in males,30-60 years,"NSAIDs, nerve blocks"
+Myxoma (Cardiac),"Shortness of breath, fainting",More common in females,30-60 years,Surgical removal
+Mastoiditis,"Ear pain, fever, swollen mastoid",Gender Neutral,Children,IV antibiotics
+Mucopolysaccharidosis,"Coarse facial features, skeletal abnormalities",Gender Neutral,Childhood onset,Enzyme replacement therapy
+Myelofibrosis,"Fatigue, enlarged spleen, anemia",Gender Neutral,60+ years,JAK inhibitors (ruxolitinib)
+Munchausen Syndrome,Faking illness for attention,More common in females,20-40 years,Psychotherapy
+Maple Syrup Urine Disease,"Sweet-smelling urine, seizures (in infants)",Gender Neutral,Newborns,Dietary management
+Myelodysplastic Syndrome,"Fatigue, easy bruising, infections",More common in males,60+ years,Blood transfusions
+Milk-Alkali Syndrome,"Confusion, kidney stones",Gender Neutral,Adults,Calcium restriction
+Mucocele (Oral),Small fluid-filled mouth bump,Gender Neutral,Any age,Surgical removal
+Myelitis,"Limb weakness, sensory loss",Gender Neutral,Any age,Corticosteroids
+Metatarsalgia,Ball-of-foot pain,More common in females,40-60 years,"Orthotics, NSAIDs"
+Microsporidiosis,Diarrhea (in HIV patients),Gender Neutral,Adults,Albendazole
+Miliaria (Heat Rash),"Small red bumps, itching",Gender Neutral,Infants/adults,Cool compresses
+Mitochondrial Disease,"Muscle weakness, seizures, developmental delays",Gender Neutral,Any age,Supportive care
+Mixed Connective Tissue Disease,"Raynaud's, joint pain, swollen hands",More common in females,20-50 years,Corticosteroids
+Mollaret's Meningitis,"Recurrent fever, headache",Gender Neutral,Adults,Antivirals
+Mucous Cyst (Digital),Small finger cyst near nail,Gender Neutral,40-70 years,Surgical drainage
+Norovirus Infection,"Severe vomiting, diarrhea, stomach cramps",Gender Neutral,Any age,"Hydration, anti-nausea meds (ondansetron)"
+Nonalcoholic Fatty Liver Disease (NAFLD),"Fatigue, right upper abdominal discomfort",More common in males,40+ years,"Weight loss, vitamin E"
+Narcolepsy,"Excessive daytime sleepiness, cataplexy",Gender Neutral,Teens to 30s,"Modafinil, sodium oxybate"
+Nephrotic Syndrome,"Swelling (edema), proteinuria, foamy urine",Gender Neutral,Children (2-6 yrs) & adults,"Corticosteroids, diuretics"
+Neurofibromatosis,"Skin tumors (neurofibromas), café-au-lait spots",Gender Neutral,Congenital (lifelong),Surgery for problematic tumors
+Nail Fungus (Onychomycosis),"Thickened, discolored nails",More common in males,Adults,"Oral terbinafine, topical ciclopirox"
+Necrotizing Fasciitis,"Severe pain, red/swollen skin, fever",Gender Neutral,Any age,"Emergency surgery, IV antibiotics"
+Neonatal Jaundice,Yellow skin/eyes in newborns,Gender Neutral,Newborns (first week),"Phototherapy, exchange transfusion"
+Nystagmus,Involuntary eye movements,Gender Neutral,Any age,Treat underlying cause
+Non-Hodgkin Lymphoma,"Swollen lymph nodes, fever, weight loss",More common in males,60+ years,Chemotherapy (R-CHOP)
+Nosebleed (Epistaxis),Bleeding from nostrils,Gender Neutral,Any age,"Nasal packing, cauterization"
+Niemann-Pick Disease,"Enlarged liver/spleen, neurological decline",Gender Neutral,Childhood,Supportive care
+Night Blindness (Nyctalopia),Poor vision in low light,Gender Neutral,Any age,Vitamin A (if deficient)
+Necrotizing Enterocolitis,"Abdominal distension, bloody stools (in preemies)",Gender Neutral,Premature infants,"Antibiotics, surgery"
+Nickel Allergy,Itchy rash at contact site,More common in females,Any age,"Topical steroids, avoidance"
+Nephritis,"Blood/protein in urine, swelling",Gender Neutral,Any age,Corticosteroids
+Noonan Syndrome,"Short stature, heart defects, facial abnormalities",Gender Neutral,Congenital,"Growth hormone, heart monitoring"
+Neuropathy (Peripheral),Numbness/tingling in hands/feet,Gender Neutral,50+ years,"Gabapentin, duloxetine"
+Nocardiosis,"Pneumonia, skin abscesses (in immunocompromised)",More common in males,Adults,Sulfonamides
+Nonalcoholic Steatohepatitis (NASH),Same as NAFLD (#627) with liver inflammation,More common in males,40+ years,"Weight loss, vitamin E"
+Night Terrors,Screaming/thrashing during sleep,Gender Neutral,Children 3-12 years,"Reassurance, scheduled awakenings"
+Nodular Melanoma,Fast-growing dark skin nodule,More common in males,50+ years,Surgical excision
+Nasal Polyps,"Nasal congestion, loss of smell",More common in males,30+ years,"Nasal steroids, surgery"
+Necrotizing Ulcerative Gingivitis,"Painful gums, bleeding, foul taste",Gender Neutral,Teens to young adults,Antibiotics (metronidazole)
+Nephrogenic Diabetes Insipidus,Excessive thirst/urination,Gender Neutral,Any age,Thiazide diuretics
+Neuroblastoma,"Abdominal mass, bone pain (in children)",Gender Neutral,<5 years,"Chemotherapy, surgery"
+Neutropenia,Frequent infections,Gender Neutral,Any age,G-CSF injections
+Nipple Discharge,Milky/bloody nipple secretion,Female,20-50 years,Treat underlying cause
+Nodular Goiter,"Thyroid nodules, possible neck swelling",More common in females,30+ years,"Thyroid hormone, surgery"
+Nonallergic Rhinitis,Nasal congestion without allergy,Gender Neutral,Adults,Nasal antihistamines
+Neurodermatitis,"Thickened, itchy skin patches",More common in females,30-50 years,Topical steroids
+Necrobiosis Lipoidica,Shiny patches on shins (linked to diabetes),More common in females,Adults,Topical steroids
+Neonatal Herpes,"Blisters, fever, seizures (in newborns)",Gender Neutral,Newborns,IV acyclovir
+Nail Psoriasis,"Pitted, thickened nails",Gender Neutral,Adults,Topical steroids
+Neuroleptic Malignant Syndrome,"Fever, muscle rigidity (drug reaction)",Gender Neutral,Any age,"Dantrolene, cooling"
+Nut Allergy,"Hives, swelling, anaphylaxis",Gender Neutral,Any age,"Epinephrine, avoidance"
+Nasopharyngeal Carcinoma,"Neck mass, nosebleeds, hearing loss",More common in males,40-60 years,"Radiation, chemotherapy"
+Nummular Eczema,Coin-shaped itchy patches,Gender Neutral,Adults,Topical steroids
+Neonatal Abstinence Syndrome,"Irritability, tremors (drug-exposed newborns)",Gender Neutral,Newborns,Morphine taper
+Nail Patella Syndrome,"Missing/abnormal nails, kidney problems",Gender Neutral,Congenital,Treat kidney complications
+Neurocysticercosis,"Seizures, headaches (parasitic brain infection)",Gender Neutral,Any age,"Albendazole, steroids"
+Neonatal Conjunctivitis,"Red, swollen eyes (in newborns)",Gender Neutral,Newborns,Antibiotic eye drops
+Nodular Sclerosis Hodgkin Lymphoma,Same as Hodgkin's (#635) with fibrous bands,More common in females,15-35 years,Same as Hodgkin's
+Necrolytic Migratory Erythema,"Red, blistering rash (glucagonoma sign)",Gender Neutral,Adults,Treat pancreatic tumor
+Nonbacterial Prostatitis,"Pelvic pain, urinary symptoms",Male,30-50 years,Alpha-blockers
+Neonatal Hypothyroidism,"Jaundice, poor feeding, lethargy",Gender Neutral,Newborns,Levothyroxine
+Neuroendocrine Tumors,"Flushing, diarrhea, wheezing",Gender Neutral,Adults,Somatostatin analogs
+Nail Bed Injury,"Pain, bleeding under nail",Gender Neutral,Any age,"Drainage, nail removal"
+Neonatal Sepsis,"Fever, lethargy, poor feeding",Gender Neutral,Newborns,IV antibiotics
+Nail Clubbing,"Rounded, enlarged fingertips",Gender Neutral,Any age,Treat underlying lung/heart disease
+Osteoarthritis,"Joint pain, stiffness, reduced mobility",More common in females,50+ years,"NSAIDs (ibuprofen), physical therapy"
+Obesity,"Excessive body fat, BMI ≥30",Gender Neutral,Any age,"Orlistat, semaglutide (Wegovy)"
+Osteoporosis,"Bone fractures, loss of height, back pain",More common in females,50+ years,Bisphosphonates (alendronate)
+Otitis Media (Middle Ear Infection),"Ear pain, fever, hearing loss",Gender Neutral,Children (6m-2yrs),"Amoxicillin, pain relievers"
+Ovarian Cancer,"Abdominal bloating, pelvic pain, weight loss",Female,50+ years,"Surgery, chemotherapy"
+Obsessive-Compulsive Disorder (OCD),"Intrusive thoughts, repetitive behaviors",Gender Neutral,Teens to adults,"SSRIs (fluoxetine), CBT"
+Oral Thrush (Candidiasis),"White mouth patches, soreness",Gender Neutral,Infants & immunocompromised,Antifungals (nystatin)
+Osteomyelitis,"Bone pain, fever, swelling",Gender Neutral,Any age,IV antibiotics (vancomycin)
+Optic Neuritis,"Vision loss, eye pain (MS-related)",More common in females,20-40 years,IV steroids
+Onychomycosis (Nail Fungus),"Thickened, discolored nails",More common in males,Adults,"Terbinafine, ciclopirox"
+Ocular Hypertension,Elevated eye pressure (no vision loss),Gender Neutral,40+ years,Eye drops (timolol)
+Osgood-Schlatter Disease,Knee pain below kneecap (in active teens),More common in males,10-15 years,"Rest, ice, NSAIDs"
+Otitis Externa (Swimmer's Ear),"Ear pain, itching, discharge",Gender Neutral,Any age,Antibiotic ear drops
+Ovarian Cysts,"Pelvic pain, bloating (often asymptomatic)",Female,20-50 years,"Monitoring, birth control pills"
+Oral Herpes (HSV-1),"Cold sores, fever blisters",Gender Neutral,Any age,"Acyclovir, valacyclovir"
+Obstructive Sleep Apnea,"Snoring, daytime sleepiness, gasping at night",More common in males,40+ years,"CPAP, oral appliances"
+Osteogenesis Imperfecta (Brittle Bone Disease),"Frequent fractures, blue sclera",Gender Neutral,Congenital,Bisphosphonates
+Otosclerosis,"Progressive hearing loss, tinnitus",More common in females,20-40 years,"Hearing aids, surgery"
+Orchitis,"Testicular pain, swelling",Male,Teens to adults,Antibiotics (if bacterial)
+Osteopenia,Reduced bone density (pre-osteoporosis),More common in females,50+ years,Calcium/vitamin D
+Oral Lichen Planus,"White lace-like mouth patches, pain",More common in females,30-60 years,Topical corticosteroids
+Ocular Migraine,Temporary vision disturbances,More common in females,20-50 years,"Rest, migraine prevention"
+Osteochondritis Dissecans,"Joint pain, locking (knee/elbow)",More common in males,10-20 years,"Rest, surgery"
+Opioid Use Disorder,"Cravings, withdrawal symptoms",More common in males,20-50 years,"Buprenorphine, methadone"
+Onycholysis,Nail separation from nail bed,Gender Neutral,Adults,Treat underlying cause
+Orthostatic Hypotension,Dizziness upon standing,Gender Neutral,Elderly,"Fludrocortisone, increased salt"
+Osteomalacia,"Bone pain, muscle weakness",Gender Neutral,Adults,Vitamin D/calcium
+Ocular Rosacea,"Red, irritated eyes, dry eye",More common in females,30-50 years,Antibiotics (doxycycline)
+Otomycosis (Fungal Ear Infection),"Itchy ear, discharge",Gender Neutral,Any age,Antifungal ear drops
+Oligohydramnios,Low amniotic fluid (in pregnancy),Female,Pregnant women,Amnioinfusion
+Osteochondroma,Bony growth near joints,Gender Neutral,10-20 years,Surgical removal
+Oral Leukoplakia,White mouth patches (precancerous),More common in males,40+ years,Smoking cessation
+Oculogyric Crisis,Involuntary upward eye deviation,Gender Neutral,Any age,Anticholinergics
+Osteosarcoma,"Bone pain, swelling (in long bones)",Slightly more common in males,Teens,"Chemotherapy, surgery"
+Ovarian Hyperstimulation Syndrome,"Abdominal pain, swelling (fertility treatment complication)",Female,20-40 years,IV fluids
+Optic Nerve Atrophy,"Vision loss, pale optic disc",Gender Neutral,Any age,Treat underlying cause
+Onychocryptosis (Ingrown Toenail),"Pain, redness around toenail",Gender Neutral,Teens to adults,"Soaking, antibiotics"
+Osteitis Deformans (Paget's Disease),"Bone pain, deformities",More common in males,50+ years,Bisphosphonates
+Oral Squamous Cell Carcinoma,Mouth ulcer that doesn't heal,More common in males,50+ years,"Surgery, radiation"
+Ocular Trauma,"Eye pain, vision changes",More common in males,Any age,Emergency eye care
+Osteochondropathy,"Bone/joint pain (e.g., Legg-Calvé-Perthes)",Varies by type,Childhood,"Rest, physical therapy"
+Oculocutaneous Albinism,"Very light skin/hair, vision problems",Gender Neutral,Congenital,Sun protection
+Overactive Bladder,"Urgency, frequent urination",More common in females,40+ years,Anticholinergics (oxybutynin)
+Osteitis Pubis,"Groin pain, tenderness",More common in males,20-50 years,"Rest, NSAIDs"
+Oral Submucous Fibrosis,"Mouth stiffness, burning sensation",More common in males,20-40 years,Steroid injections
+Ocular Ischemic Syndrome,"Vision loss, eye pain (carotid artery disease)",More common in males,50+ years,Carotid revascularization
+Osteochondrodysplasia,"Short stature, skeletal abnormalities",Gender Neutral,Congenital,Supportive care
+Opioid Withdrawal,"Anxiety, sweating, diarrhea",Gender Neutral,Any age,"Clonidine, buprenorphine"
+Ocular Toxoplasmosis,"Blurred vision, floaters",Gender Neutral,Any age,Pyrimethamine + sulfadiazine
+Osteoid Osteoma,Nighttime bone pain relieved by NSAIDs,More common in males,10-25 years,Radiofrequency ablation
+Pneumonia,"Fever, cough, difficulty breathing, chest pain",Gender Neutral,Any age (severe in elderly & infants),"Antibiotics (azithromycin), antivirals"
+Psoriasis,"Red, scaly skin patches, itching",Gender Neutral,15-35 years,"Topical steroids, biologics"
+Parkinson's Disease,"Tremors, stiffness, slow movement",More common in males,60+ years,"Levodopa, dopamine agonists"
+Peptic Ulcer,"Burning stomach pain, bloating",More common in males,30-60 years,"PPIs (omeprazole), antibiotics (H. pylori)"
+Polycystic Ovary Syndrome (PCOS),"Irregular periods, acne, excess hair growth",Female,15-45 years,"Birth control pills, metformin"
+Prostate Cancer,"Urinary problems, bone pain (late stage)",Male,50+ years,"Surgery, hormone therapy"
+Pancreatitis,"Severe upper abdominal pain, nausea",More common in males,30-60 years,"IV fluids, pain meds"
+Premenstrual Syndrome (PMS),"Mood swings, bloating, breast tenderness",Female,20-40 years,"NSAIDs, birth control pills"
+Peripheral Neuropathy,Numbness/tingling in hands/feet,Gender Neutral,50+ years,"Gabapentin, duloxetine"
+Preeclampsia,"High BP, protein in urine (pregnancy)",Female,Pregnant women,"Delivery of baby, magnesium sulfate"
+Pharyngitis (Strep Throat),"Sore throat, fever, swollen tonsils",Gender Neutral,5-15 years,"Penicillin, amoxicillin"
+Pink Eye (Conjunctivitis),"Redness, itching, eye discharge",Gender Neutral,Any age,Antibiotic drops (if bacterial)
+Pelvic Inflammatory Disease (PID),"Pelvic pain, fever, abnormal discharge",Female,15-30 years,Antibiotics (ceftriaxone + doxycycline)
+Paget's Disease of Bone,"Bone pain, deformities, fractures",More common in males,50+ years,Bisphosphonates
+Post-Traumatic Stress Disorder (PTSD),"Flashbacks, nightmares, anxiety",More common in females,Any age,"SSRIs, therapy"
+Paronychia,"Red, swollen nail folds, pus",Gender Neutral,Any age,"Warm soaks, antibiotics"
+Polymyalgia Rheumatica,Muscle pain/stiffness (shoulders/hips),More common in females,70+ years,Corticosteroids
+Plantar Fasciitis,Heel pain (worse in morning),More common in females,40-60 years,"Stretching, orthotics"
+Prostatitis,"Pelvic pain, urinary symptoms",Male,30-50 years,Antibiotics (if bacterial)
+Pityriasis Rosea,"Oval rash (""Christmas tree"" pattern)",Gender Neutral,10-35 years,"Antihistamines, topical steroids"
+Pulmonary Embolism (PE),"Shortness of breath, chest pain, cough",Gender Neutral,Any age,Blood thinners (heparin)
+Pyelonephritis (Kidney Infection),"Fever, flank pain, nausea",More common in females,Any age,IV antibiotics (ciprofloxacin)
+Pyloric Stenosis,Projectile vomiting (in infants),More common in males,2-8 weeks old,Surgical correction
+Pemphigus Vulgaris,Painful blisters on skin/mouth,Gender Neutral,40-60 years,Corticosteroids
+Pericarditis,Sharp chest pain (worsens lying down),Gender Neutral,Any age,"NSAIDs, colchicine"
+Pica,Craving/eating non-food items,Gender Neutral,Children/pregnant women,Iron supplements (if deficient)
+Plague,"Fever, swollen lymph nodes (buboes)",Gender Neutral,Any age,"Streptomycin, doxycycline"
+Porphyria,"Abdominal pain, photosensitivity",More common in females,20-40 years,"Hematin, glucose"
+Pseudogout,Sudden joint pain/swelling (knees/wrists),Gender Neutral,60+ years,"Colchicine, NSAIDs"
+Phenylketonuria (PKU),Developmental delay (if untreated),Gender Neutral,Congenital,Low-phenylalanine diet
+Postpartum Depression,Persistent sadness after childbirth,Female,Childbearing years,"SSRIs, therapy"
+Pustulosis Palmaris et Plantaris,Pus-filled blisters on hands/feet,Gender Neutral,Adults,Topical steroids
+Prolactinoma,"Galactorrhea, irregular periods",More common in females,20-50 years,Bromocriptine
+Paroxysmal Nocturnal Hemoglobinuria,"Blood in urine, anemia",Gender Neutral,30-50 years,Eculizumab
+Pityriasis Versicolor,Discolored skin patches,Gender Neutral,Teens to adults,Antifungal creams
+Patent Ductus Arteriosus,"Heart murmur, poor feeding (in infants)",More common in females,Newborns,"Indomethacin, surgery"
+Pelvic Organ Prolapse,"Vaginal bulge, urinary problems",Female,Postmenopausal,"Pessary, surgery"
+Peritonitis,"Severe abdominal pain, fever",Gender Neutral,Any age,"IV antibiotics, surgery"
+Pott's Disease (Spinal TB),"Back pain, spinal deformity",Gender Neutral,Any age,Anti-TB drugs
+Pulmonary Hypertension,"Shortness of breath, fatigue",More common in females,30-60 years,Vasodilators
+Pyoderma Gangrenosum,Painful skin ulcers,Gender Neutral,20-50 years,Corticosteroids
+Pica (Geophagia),Craving/eating dirt,Gender Neutral,Children/pregnant women,Iron supplements
+Polymyositis,"Muscle weakness, pain",More common in females,30-60 years,Corticosteroids
+Pityriasis Lichenoides,Scaly pink skin patches,Gender Neutral,Children/young adults,UVB therapy
+Proctitis,"Rectal pain, bleeding",Gender Neutral,Any age,"Antibiotics, mesalamine"
+Pseudomembranous Colitis,Diarrhea (C. difficile infection),Gender Neutral,Any age,Vancomycin
+Postherpetic Neuralgia,Persistent pain after shingles,Gender Neutral,50+ years,Gabapentin
+Pustular Psoriasis,Pus-filled blisters on red skin,Gender Neutral,Adults,Acitretin
+Pica (Amylophagia),Craving/eating starch,Gender Neutral,Children/pregnant women,Iron supplements
+Pyogenic Granuloma,Fast-growing red skin nodule,Gender Neutral,Any age,Surgical removal
+Q Fever,"High fever, headache, pneumonia",Gender Neutral,Any age,Doxycycline
+Quadriplegia,Paralysis of all four limbs,Gender Neutral,Any age,"Physical therapy, supportive care"
+Quincke's Edema (Angioedema),Swelling under skin (face/lips/throat),Gender Neutral,Any age,"Antihistamines, epinephrine"
+QT Prolongation,"Irregular heartbeat, fainting",Gender Neutral,Any age,Beta-blockers
+Quick's Disease (Hemophilia B),"Excessive bleeding, easy bruising",Male (X-linked),Congenital,Factor IX replacement
+Quinsy (Peritonsillar Abscess),"Severe sore throat, difficulty swallowing",Gender Neutral,Teens to adults,"Antibiotics, drainage"
+Quadriceps Tendonitis,Knee pain above patella,Gender Neutral,Adults,"Rest, NSAIDs"
+Quotidian Fever,Daily fever spikes (malaria variant),Gender Neutral,Any age,Antimalarials
+Quinidine Toxicity,"Tinnitus, vision disturbances, arrhythmias",Gender Neutral,Adults,Discontinue quinidine
+Qazi-Markouizos Syndrome,"Intellectual disability, facial dysmorphism",Gender Neutral,Congenital,Supportive care
+Rabies,"Fever, agitation, hydrophobia, paralysis",Gender Neutral,Any age,Post-exposure prophylaxis (vaccine + immunoglobulin)
+Rheumatoid Arthritis (RA),"Joint pain/swelling, morning stiffness",More common in females (3:1 ratio),30-60 years,"DMARDs (methotrexate), biologics"
+Rosacea,"Facial redness, visible blood vessels, acne-like bumps",More common in females,30-50 years,"Topical metronidazole, oral antibiotics"
+Rubella (German Measles),"Mild fever, rash, swollen lymph nodes",Gender Neutral,Children (vaccine preventable),Supportive care
+Rotavirus Infection,"Severe diarrhea, vomiting, fever (in infants)",Gender Neutral,6m-2 years,"Oral rehydration, vaccine prevention"
+Raynaud's Phenomenon,Fingers/toes turn white/blue in cold,More common in females,15-40 years,Calcium channel blockers
+Ringworm (Tinea Corporis),"Circular red, scaly rash",Gender Neutral,Any age,Antifungal creams (clotrimazole)
+Reactive Arthritis,"Joint pain, eye inflammation, urethritis",More common in males,20-40 years,"NSAIDs, antibiotics"
+Rubeola (Measles),"High fever, cough, rash, red eyes",Gender Neutral,Children (vaccine preventable),"Vitamin A, supportive care"
+Restless Legs Syndrome (RLS),"Urge to move legs, worse at night",More common in females,30+ years,Dopamine agonists
+Retinoblastoma,"White pupil, vision loss (in children)",Gender Neutral,<5 years,"Chemotherapy, enucleation"
+Rocky Mountain Spotted Fever,"Fever, headache, spotted rash",Gender Neutral,Any age,Doxycycline
+Renal Cell Carcinoma,"Blood in urine, flank pain, weight loss",More common in males,50-70 years,"Surgery, immunotherapy"
+Reye's Syndrome,"Vomiting, confusion, liver failure (post-viral in kids)",Gender Neutral,4-12 years,"ICU care, avoid aspirin"
+Rhinovirus (Common Cold),"Runny nose, sore throat, cough",Gender Neutral,Any age,Symptomatic relief
+Rickets,"Bone deformities, delayed growth",Gender Neutral,Children,Vitamin D/calcium
+Rubella Syndrome (Congenital),"Deafness, heart defects, cataracts",Gender Neutral,Newborns,Supportive care
+Renal Failure (Acute),"Reduced urine output, swelling, confusion",Gender Neutral,Any age,"Dialysis, treat cause"
+Rheumatic Fever,"Joint pain, rash, heart valve damage",Gender Neutral,5-15 years,"Penicillin, aspirin"
+Retinal Detachment,"Floaters, flashes, vision loss",Gender Neutral,50+ years,Surgery
+Rosai-Dorfman Disease,Painless lymph node enlargement,Gender Neutral,Children/young adults,Corticosteroids
+Rumination Syndrome,Regurgitating undigested food,Gender Neutral,Any age,Behavioral therapy
+Rat-Bite Fever,"Fever, rash, joint pain",Gender Neutral,Any age,Penicillin
+Recurrent Respiratory Papillomatosis,"Hoarseness, airway obstruction",Gender Neutral,Children/adults,Surgical removal
+Relapsing Polychondritis,Ear/nose cartilage inflammation,Gender Neutral,40-60 years,Corticosteroids
+Rhabdomyolysis,"Muscle pain, dark urine, kidney failure",More common in males,Any age,IV fluids
+Ramsay Hunt Syndrome,"Facial paralysis, ear rash (shingles variant)",Gender Neutral,Adults,"Antivirals, steroids"
+Rectal Prolapse,Tissue protruding from anus,More common in females,Elderly,Surgery
+Respiratory Syncytial Virus (RSV),"Wheezing, cough, fever (severe in infants)",Gender Neutral,Infants/elderly,Supportive care
+Rothia Infection,"Endocarditis, abscesses (in immunocompromised)",Gender Neutral,Any age,Vancomycin
+Rumination Disorder,Same as #807,Gender Neutral,Any age,Same as #807
+Reiter's Syndrome,Same as reactive arthritis (#793),More common in males,20-40 years,Same as #793
+Renal Tubular Acidosis,"Weakness, kidney stones",Gender Neutral,Any age,Alkali therapy
+Retinitis Pigmentosa,"Night blindness, tunnel vision",Gender Neutral,Teens to adults,Vitamin A palmitate
+Runner's Knee (Patellofemoral Pain Syndrome),Knee pain behind patella,More common in females,Teens to adults,Physical therapy
+Rat Lungworm Disease,"Headache, meningitis",Gender Neutral,Any age,Supportive care
+Retroperitoneal Fibrosis,"Back pain, kidney failure",More common in males,40-60 years,Corticosteroids
+Rhabdoid Tumor,Abdominal mass (in infants),Gender Neutral,<3 years,"Surgery, chemotherapy"
+Radial Tunnel Syndrome,"Forearm pain, weakness",Gender Neutral,Adults,"NSAIDs, splinting"
+Rumex Poisoning,"Nausea, kidney damage (plant toxicity)",Gender Neutral,Any age,Supportive care
+Renal Osteodystrophy,"Bone pain, fractures (kidney disease complication)",Gender Neutral,Any age,Phosphate binders
+Recurrent Corneal Erosion,"Eye pain, tearing upon waking",Gender Neutral,Adults,Lubricating drops
+Red Eye Syndrome,Conjunctival injection,Gender Neutral,Any age,Treat underlying cause
+Refsum Disease,"Night blindness, neuropathy",Gender Neutral,Childhood onset,Low-phytanic acid diet
+Rett Syndrome,"Developmental regression, hand-wringing",Female (X-linked),6-18 months onset,Supportive care
+Rhinitis Medicamentosa,Nasal congestion (rebound from decongestants),Gender Neutral,Any age,Discontinue overuse
+Richter's Transformation,Lymphoma progression to aggressive form,Gender Neutral,Adults,Chemotherapy
+Runner's Diarrhea,Loose stools during/after running,Gender Neutral,Adults,Dietary adjustments
+Russell-Silver Syndrome,"Short stature, triangular face",Gender Neutral,Congenital,Growth hormone
+Ryukyu Fever,"Fever, rash (Okinawa region)",Gender Neutral,Any age,Doxycycline
+Stroke (Cerebrovascular Accident),"Sudden weakness, speech difficulty, facial droop",Gender Neutral,55+ years,"tPA (if early), aspirin, rehabilitation"
+Sinusitis,"Facial pain, nasal congestion, headache",Gender Neutral,Any age,"Decongestants, antibiotics (if bacterial)"
+Shingles (Herpes Zoster),"Painful rash with blisters, usually on one side",Gender Neutral,50+ years,"Antivirals (valacyclovir), pain meds"
+Sickle Cell Anemia,"Pain crises, fatigue, infections",Gender Neutral,Congenital (lifelong),"Hydroxyurea, pain management"
+Seasonal Allergies (Allergic Rhinitis),"Sneezing, runny nose, itchy eyes",Gender Neutral,Any age,"Antihistamines (loratadine), nasal steroids"
+Stomach Flu (Gastroenteritis),"Diarrhea, vomiting, stomach cramps",Gender Neutral,Any age,"Hydration, anti-nausea meds"
+Syphilis,"Chancre sores, rash (stages vary)",More common in males,15-40 years,Penicillin
+Sleep Apnea,"Loud snoring, daytime sleepiness",More common in males,40+ years,"CPAP, oral appliances"
+Schizophrenia,"Hallucinations, delusions, disorganized thinking",Gender Neutral,Late teens to 30s,Antipsychotics (risperidone)
+Sciatica,"Pain radiating down leg, numbness",Gender Neutral,30-50 years,"NSAIDs, physical therapy"
+Scabies,"Intense itching, burrow tracks on skin",Gender Neutral,Any age,Permethrin cream
+Sepsis,"Fever, rapid breathing, confusion",Gender Neutral,Any age,"IV antibiotics, fluids"
+Scoliosis,Abnormal spinal curvature,More common in females,10-15 years,"Bracing, surgery"
+Staph Infection (MRSA),"Skin abscesses, boils, cellulitis",Gender Neutral,Any age,"Vancomycin, drainage"
+Strep Throat,"Sore throat, fever, swollen tonsils",Gender Neutral,5-15 years,"Penicillin, amoxicillin"
+Sunburn,"Red, painful skin, blisters",Gender Neutral,Any age,"Aloe vera, pain relievers"
+Swine Flu (H1N1),"Fever, cough, body aches",Gender Neutral,Any age,"Oseltamivir, rest"
+Sjögren's Syndrome,"Dry eyes, dry mouth, fatigue",More common in females,40-60 years,"Artificial tears, pilocarpine"
+Sarcoidosis,"Shortness of breath, skin lesions",More common in females,20-40 years,Corticosteroids
+Seborrheic Dermatitis,"Flaky scalp (dandruff), red skin",More common in males,30-60 years,Antifungal shampoos
+Salmonella Infection,"Diarrhea, fever, abdominal cramps",Gender Neutral,Any age,"Hydration, antibiotics (if severe)"
+Sprained Ankle,"Pain, swelling, bruising",Gender Neutral,Any age,"RICE (rest, ice, compression, elevation)"
+Scleroderma,"Skin thickening, Raynaud's phenomenon",More common in females,30-50 years,Immunosuppressants
+Stye (Hordeolum),"Red, painful eyelid bump",Gender Neutral,Any age,Warm compresses
+Stevens-Johnson Syndrome,"Skin peeling, blisters (severe drug reaction)",Gender Neutral,Any age,"ICU care, discontinue causative drug"
+Seasonal Affective Disorder (SAD),Depression during winter months,More common in females,20-50 years,"Light therapy, antidepressants"
+Subconjunctival Hemorrhage,Bright red patch in white of eye,Gender Neutral,Any age,Artificial tears
+Synovitis,"Joint swelling, pain",Gender Neutral,Any age,"NSAIDs, corticosteroid injections"
+Scarlet Fever,"Red rash, strawberry tongue",Gender Neutral,5-15 years,Antibiotics (penicillin)
+Stomach Ulcer,"Burning stomach pain, bloating",More common in males,30-60 years,"PPIs, antibiotics"
+Spondylitis,"Back pain, stiffness",More common in males,20-40 years,"NSAIDs, biologics"
+Sun Poisoning,Severe sunburn with systemic symptoms,Gender Neutral,Any age,"Cool compresses, hydration"
+Seizure Disorder (Epilepsy),"Convulsions, loss of consciousness",Gender Neutral,Any age,Anticonvulsants
+Salivary Gland Infection,"Swollen cheek, pain, fever",Gender Neutral,Any age,"Antibiotics, hydration"
+Shin Splints,Lower leg pain during exercise,Gender Neutral,Teens to adults,"Rest, ice"
+Strabismus,"Crossed eyes, double vision",Gender Neutral,Childhood,"Eye patches, surgery"
+Smallpox (Variola),"High fever, rash with pustules",Gender Neutral,Any age,Vaccine (prevention)
+Scurvy,"Bleeding gums, bruising",Gender Neutral,Any age,Vitamin C
+Spider Bite,"Pain, swelling, necrosis (brown recluse)",Gender Neutral,Any age,Antivenom (if severe)
+Stress Fracture,Localized bone pain with activity,More common in females,Teens to adults,"Rest, immobilization"
+Swimmer's Ear (Otitis Externa),"Ear pain, itching, discharge",Gender Neutral,Any age,Antibiotic ear drops
+Slipped Disc (Herniated Disc),"Back pain, radiating leg pain",Gender Neutral,30-50 years,"Physical therapy, surgery"
+Stomach Cancer,"Indigestion, weight loss, vomiting",More common in males,50+ years,"Surgery, chemotherapy"
+Stuttering,Speech disfluency,More common in males,Childhood,Speech therapy
+Sun Allergy (Polymorphic Light Eruption),Itchy rash after sun exposure,More common in females,20-40 years,"Sunscreen, antihistamines"
+Synovial Sarcoma,Painful soft tissue mass,Gender Neutral,15-40 years,"Surgery, radiation"
+Septic Arthritis,"Hot, swollen, painful joint",Gender Neutral,Any age,IV antibiotics
+Sialadenitis,"Swollen salivary gland, pain",Gender Neutral,Any age,"Antibiotics, hydration"
+Subdural Hematoma,"Headache, confusion (after head injury)",More common in males,Elderly,Surgery
+Sweet's Syndrome,"Painful skin lesions, fever",More common in females,30-50 years,Corticosteroids
+Tuberculosis (TB),"Chronic cough, fever, night sweats",Gender Neutral,Any age,"Rifampin, isoniazid (6-9 month regimen)"
+Type 2 Diabetes,"Increased thirst, frequent urination, fatigue",Gender Neutral,40+ years,"Metformin, insulin"
+Tetanus,"Muscle spasms, lockjaw, difficulty swallowing",Gender Neutral,Any age,"Tetanus immune globulin, vaccine"
+Thyroiditis (Hashimoto's),"Fatigue, weight gain, cold intolerance",More common in females,30-50 years,Levothyroxine
+Tonsillitis,"Sore throat, swollen tonsils, fever",Gender Neutral,5-15 years,Penicillin (if bacterial)
+Tinnitus,Ringing/buzzing in ears,More common in males,50+ years,"Sound therapy, tinnitus retraining"
+Trigeminal Neuralgia,Severe facial pain (electric shock-like),More common in females,50+ years,Carbamazepine
+Tinea (Ringworm),"Circular red, scaly rash",Gender Neutral,Any age,Antifungal creams (clotrimazole)
+Typhoid Fever,"High fever, headache, rose spots",Gender Neutral,Any age,Ciprofloxacin
+Tachycardia,Rapid heartbeat (>100 bpm),Gender Neutral,Any age,Beta-blockers
+Tennis Elbow (Lateral Epicondylitis),"Outer elbow pain, weak grip",Gender Neutral,30-50 years,"NSAIDs, physical therapy"
+Thalassemia,"Fatigue, pale skin, growth delays",Gender Neutral,Congenital,Blood transfusions
+Tourette Syndrome,Motor/vocal tics,More common in males,Childhood onset,Antipsychotics
+Toxic Shock Syndrome,"High fever, rash, low blood pressure",More common in females,15-35 years,IV antibiotics
+Transient Ischemic Attack (TIA),Temporary stroke-like symptoms,Gender Neutral,50+ years,"Aspirin, statins"
+Tension Headache,Mild-moderate band-like head pain,More common in females,20-50 years,NSAIDs
+Tardive Dyskinesia,Involuntary facial movements,Gender Neutral,Adults,Valbenazine
+Temporal Arteritis,"Headache, jaw pain, vision loss",More common in females,50+ years,Corticosteroids
+Tinea Pedis (Athlete's Foot),"Itchy, scaly feet",More common in males,Teens to adults,Terbinafine
+Trichomoniasis,"Vaginal discharge, itching",Female,15-50 years,Metronidazole
+Typhus,"Fever, rash, muscle pain",Gender Neutral,Any age,Doxycycline
+Torticollis,"Twisted neck, limited mobility",Gender Neutral,Any age,Muscle relaxants
+Tinea Versicolor,Discolored skin patches,Gender Neutral,Teens to adults,Selenium sulfide shampoo
+Trachoma,"Eye irritation, blindness (chronic)",Gender Neutral,Children in endemic areas,Azithromycin
+Tarsal Tunnel Syndrome,"Foot pain, tingling",More common in females,Adults,Orthotics
+Testicular Cancer,"Testicular lump, heaviness",Male,15-35 years,"Surgery, chemotherapy"
+Tinea Capitis,"Scalp scaling, hair loss",Gender Neutral,Children,Oral antifungals
+Thrombocytopenia,"Easy bruising, bleeding",Gender Neutral,Any age,Corticosteroids
+Tinea Cruris (Jock Itch),"Red, itchy groin rash",More common in males,Teens to adults,Antifungal creams
+Tension Myositis Syndrome,Chronic muscle pain,Gender Neutral,Adults,Mind-body therapy
+Tarlov Cyst,"Lower back pain, sciatica",More common in females,30-60 years,Surgery
+Tularemia,"Fever, skin ulcer, swollen lymph nodes",Gender Neutral,Any age,Streptomycin
+Triglycerides High,None (detected via blood test),Gender Neutral,Adults,Fibrates
+Trench Foot,"Painful, swollen feet (cold/wet exposure)",Gender Neutral,Any age,"Warm, dry environment"
+Toxic Epidermal Necrolysis,"Skin peeling, blisters (severe drug reaction)",Gender Neutral,Any age,ICU care
+Tinea Unguium (Nail Fungus),"Thickened, discolored nails",More common in males,Adults,Oral terbinafine
+Tietze Syndrome,"Chest pain, swollen costal cartilage",Gender Neutral,20-40 years,NSAIDs
+Trichotillomania,"Hair pulling, bald patches",More common in females,Teens to adults,Cognitive behavioral therapy
+Tinea Manuum,"Hand scaling, itching",Gender Neutral,Adults,Antifungal creams
+Tinea Barbae,Beard area fungal infection,Male,Adults,Oral antifungals
+Torsades de Pointes,"Fainting, irregular heartbeat",Gender Neutral,Any age,Magnesium
+Tropical Sprue,"Diarrhea, weight loss (tropical regions)",Gender Neutral,Adults,Tetracycline
+Tinea Incognito,Atypical fungal rash (misdiagnosed),Gender Neutral,Any age,Discontinue steroids
+Toxic Hepatitis,"Jaundice, nausea (drug/toxin-induced)",Gender Neutral,Any age,Discontinue toxin
+Tarsal Coalition,"Foot pain, stiffness",Gender Neutral,Teens,Orthotics
+Tinea Nigra,Dark palm/sole patches,Gender Neutral,Any age,Antifungals
+Trichinosis,"Muscle pain, fever (undercooked pork)",Gender Neutral,Any age,Albendazole
+Turf Toe,Big toe joint pain,Gender Neutral,Athletes,"Rest, taping"
+Tinea Gladiatorum,Skin rash (wrestlers/contact sports),More common in males,Teens to adults,Antifungals
+Tension Pneumothorax,"Severe chest pain, difficulty breathing",More common in males,Any age,Needle decompression
+Urinary Tract Infection (UTI),"Painful urination, frequent urges, cloudy urine",More common in females,20-50 years,"Antibiotics (nitrofurantoin, ciprofloxacin)"
+Ulcerative Colitis,"Bloody diarrhea, abdominal pain",Gender Neutral,15-35 years,"Mesalamine, biologics"
+Uveitis,"Eye pain, redness, blurred vision",Gender Neutral,20-50 years,Steroid eye drops
+Uterine Fibroids,"Heavy periods, pelvic pressure",Female,30-50 years,"Hormonal therapy, surgery"
+Urticaria (Hives),Itchy red welts,More common in females,Any age,Antihistamines
+Umbilical Hernia,Belly button bulge,Gender Neutral,Infants/adults,Surgical repair
+Urethritis,"Discharge, burning urination",More common in males,15-30 years,Antibiotics
+Undescended Testicle (Cryptorchidism),Missing testicle in scrotum,Male,Newborns,Hormones/surgery
+Uremia,"Fatigue, nausea (kidney failure)",Gender Neutral,Any age,Dialysis
+Urinary Incontinence,Uncontrolled urine leakage,More common in females,50+ years,Pelvic floor exercises
+Ulnar Neuropathy,Hand tingling/numbness,Gender Neutral,Adults,Splinting
+Uterine Prolapse,"Vaginal bulge, pressure",Female,Postmenopausal,"Pessary, surgery"
+Urinary Retention,Inability to urinate,More common in males,50+ years,Catheterization
+Uric Acid Stones,"Flank pain, blood in urine",More common in males,30-60 years,Allopurinol
+Urethral Stricture,Weak urine stream,Male,Adults,Dilation surgery
+Ulcer (Peptic),Burning stomach pain,More common in males,30-60 years,PPIs
+Usher Syndrome,Hearing/vision loss,Gender Neutral,Congenital,Supportive care
+Uterine Cancer,"Abnormal bleeding, pelvic pain",Female,50+ years,"Surgery, radiation"
+Ulnar Collateral Ligament Injury,Elbow pain (baseball pitchers),Male,Teens to adults,Surgery
+Urinary Fistula,Leakage of urine into vagina,Female,Adults,Surgery
+Urachal Abnormality,Belly button drainage,Gender Neutral,Infants,Surgery
+Urge Incontinence,Sudden strong urge to urinate,More common in females,50+ years,Anticholinergics
+Uveal Melanoma,"Vision changes, eye floaters",Gender Neutral,50+ years,Radiation
+Uterine Adenomyosis,"Painful periods, heavy bleeding",Female,30-50 years,Hormonal therapy
+Ulnar Wrist Pain,Outer wrist pain,Gender Neutral,Adults,"Rest, splinting"
+Urethral Caruncle,Small red vaginal lesion,Female,Postmenopausal,Estrogen cream
+Urinary Schistosomiasis,Blood in urine,Gender Neutral,Children in endemic areas,Praziquantel
+Ulnar Drift,Finger deviation (rheumatoid arthritis),More common in females,30-50 years,DMARDs
+Uterine Polyps,Irregular bleeding,Female,30-50 years,Surgical removal
+Urachal Cyst,"Abdominal pain, infection",Gender Neutral,Any age,Antibiotics
+Urinary Frequency,Needing to urinate often,Gender Neutral,Any age,Treat underlying cause
+Ulnar Impaction Syndrome,Wrist pain,Gender Neutral,Adults,Surgery
+Uterine Atony,Postpartum hemorrhage,Female,Childbearing,Oxytocin
+Urethral Diverticulum,"Painful urination, dribbling",Female,30-50 years,Surgery
+Urinary Casts,None (found in urine tests),Gender Neutral,Any age,Treat underlying kidney disease
+Ulnar Nerve Entrapment,"""Funny bone"" tingling",Gender Neutral,Adults,Surgery
+Uterine Sarcoma,"Abnormal bleeding, pelvic mass",Female,50+ years,"Surgery, chemo"
+Urachal Cancer,"Blood in urine, abdominal mass",Gender Neutral,Adults,Surgery
+Urinary Urgency,Sudden need to urinate,Gender Neutral,Any age,Behavioral therapy
+Ulnar Tunnel Syndrome,Hand weakness/numbness,Gender Neutral,Adults,Splinting
+Uterine Didelphys,Double uterus (often asymptomatic),Female,Congenital,Surgery (if needed)
+Urethral Syndrome,Urinary discomfort without infection,Female,20-50 years,Bladder training
+Urinary Mucin,None (found in urine tests),Gender Neutral,Any age,Treat underlying cause
+Ulnar Dimelia,Extra ulna bone,Gender Neutral,Congenital,Surgery
+Uterine Hypoplasia,"Absent periods, infertility",Female,Teens to adults,Hormone therapy
+Urethral Warts,Small bumps near urethra,Gender Neutral,15-40 years,Cryotherapy
+Urinary Protein,Foamy urine,Gender Neutral,Any age,Treat underlying cause
+Ulnar Styloid Impaction,Wrist pain,Gender Neutral,Adults,Surgery
+Uterine Syncope,Fainting during periods,Female,Teens to 30s,Hormonal therapy
+Urethral Meatal Stenosis,Painful urination,Male,Any age,Dilation
+Vaginitis,"Vaginal itching, discharge (often foul-smelling), redness, burning during urination",Female,Teens to elderly (15-80+),"Antifungals (e.g., fluconazole), antibiotics (e.g., metronidazole), or estrogen creams"
+Varicella (Chickenpox),"Itchy rash, fever, fatigue, blisters",Gender Neutral,"Mostly children (1-12), but can affect unvaccinated adults","Acyclovir, calamine lotion, antihistamines"
+Varicocele,"Swollen veins in scrotum, dull pain, infertility",Male,Teens to adults (15-50),"Pain relievers (ibuprofen), surgery if severe"
+Varicose Veins,"Swollen, twisted veins, leg pain, heaviness",Female (more common),Adults (30-70),"Compression stockings, sclerotherapy, surgery"
+Vasculitis,"Fever, fatigue, weight loss, organ damage (depending on type)",Gender Neutral,Any age (varies by type),"Corticosteroids (prednisone), immunosuppressants"
+Vasovagal Syncope,"Fainting, dizziness, nausea, pale skin",Gender Neutral,Teens to elderly (15-80+),"Increased salt/water intake, beta-blockers (if severe)"
+Ventricular Fibrillation,"Sudden collapse, no pulse, cardiac arrest",Male (higher risk),Adults (40+),"Emergency defibrillation, antiarrhythmics (amiodarone)"
+Ventricular Tachycardia,"Rapid heartbeat, dizziness, chest pain",Male (higher risk),Adults (30+),"Beta-blockers, ablation, ICD (implantable cardioverter-defibrillator)"
+Vertigo (Benign Paroxysmal Positional Vertigo - BPPV),"Spinning sensation, nausea, imbalance",Gender Neutral,Adults (40+),"Meclizine, Epley maneuver"
+Vestibular Neuritis,"Severe dizziness, nausea, imbalance (no hearing loss)",Gender Neutral,Adults (20-60),"Corticosteroids, antihistamines"
+Vitiligo,"White patches on skin, loss of pigmentation",Gender Neutral,Any age (often starts 10-30),"Topical steroids, light therapy, tacrolimus"
+Von Willebrand Disease,"Easy bruising, prolonged bleeding, nosebleeds",Gender Neutral (slightly more females diagnosed),Any age (inherited disorder),"Desmopressin (DDAVP), clotting factor concentrates"
+Vulvodynia,"Chronic vulvar pain, burning, soreness",Female,Adults (20-60),"Antidepressants (amitriptyline), nerve blocks"
+Vaginal Atrophy (Genitourinary Syndrome of Menopause),"Vaginal dryness, pain during sex, itching",Female,Postmenopausal women (50+),"Vaginal estrogen, moisturizers"
+Viral Conjunctivitis (Pink Eye),"Red eyes, itching, discharge, tearing",Gender Neutral,Any age,"Antihistamine drops, artificial tears (if viral, no antibiotics)"
+Viral Gastroenteritis (Stomach Flu),"Diarrhea, vomiting, stomach cramps, fever",Gender Neutral,Any age,"Hydration (oral rehydration solutions), antiemetics"
+Viral Meningitis,"Headache, fever, stiff neck, light sensitivity",Gender Neutral,Children & young adults (5-30),"Supportive care (fluids, pain relievers)"
+Vitamin B12 Deficiency,"Fatigue, numbness, memory issues, anemia",Gender Neutral,Adults (40+),"B12 injections, oral supplements"
+Vitamin D Deficiency,"Bone pain, muscle weakness, fatigue",Gender Neutral,All ages (more common in elderly),Vitamin D supplements
+Vocal Cord Nodules,"Hoarseness, voice fatigue, throat pain",Gender Neutral (more in singers/teachers),Teens to adults (15-50),"Voice therapy, surgery if severe"
+Vocal Cord Paralysis,"Hoarseness, weak voice, breathing difficulty",Gender Neutral,Adults (30-70),"Voice therapy, surgery (laryngeal framework surgery)"
+Vulvar Cancer,"Itching, pain, bleeding, skin changes",Female,Older adults (50+),"Surgery, radiation, chemotherapy"
+Vulvar Intraepithelial Neoplasia (VIN),"Itching, burning, skin thickening",Female,Adults (30-60),"Topical creams (imiquimod), laser therapy"
+Vaginismus,Painful vaginal muscle spasms during penetration,Female,Teens to adults (15-50),"Pelvic floor therapy, dilators, counseling"
+Ventricular Septal Defect (VSD),"Heart murmur, fatigue, poor growth (in infants)",Gender Neutral,Congenital (present at birth),Surgery if large defect
+Viral Pharyngitis,"Sore throat, fever, swollen lymph nodes",Gender Neutral,Any age,"Rest, NSAIDs (ibuprofen), throat lozenges"
+Viral Pneumonia,"Cough, fever, shortness of breath, fatigue",Gender Neutral,Any age (severe in elderly/immunocompromised),"Antivirals (oseltamivir if flu-related), supportive care"
+Visceral Leishmaniasis (Kala-azar),"Fever, weight loss, enlarged spleen/liver",Gender Neutral,Any (common in tropical regions),"Amphotericin B, miltefosine"
+Vitamin A Deficiency,"Night blindness, dry skin, infections",Gender Neutral,Children in developing countries,Vitamin A supplements
+Vitamin K Deficiency,"Easy bruising, bleeding gums, heavy periods",Gender Neutral,"Newborns, malnourished adults",Vitamin K injections/oral supplements
+Volvulus (Intestinal),"Severe abdominal pain, vomiting, bloating",Gender Neutral,Infants (malrotation) & elderly,Emergency surgery
+Vomiting Syndrome (Cyclic Vomiting Syndrome),"Recurrent severe vomiting, nausea, dehydration",Gender Neutral,Children & young adults,"Anti-nausea meds (ondansetron), hydration"
+Ventricular Hypertrophy,"Shortness of breath, chest pain, fatigue",Male (more common in athletes),Adults (30+),"Beta-blockers, treat underlying cause (e.g., hypertension)"
+Vaginal Yeast Infection (Candidiasis),"Itching, thick white discharge, burning",Female,Teens to elderly (15-80+),"Antifungals (clotrimazole, fluconazole)"
+"Viral Hepatitis (Hepatitis A, B, C, etc.)","Fatigue, jaundice, nausea, abdominal pain",Gender Neutral,Any age,"Antivirals (e.g., entecavir for Hep B), vaccines (Hep A/B)"
+Vaginal Prolapse,"Pelvic pressure, bulging in vagina, incontinence",Female,Postmenopausal women (50+),"Pelvic floor therapy, pessary, surgery"
+Ventricular Ectopy (PVCs),"Palpitations, skipped heartbeats, dizziness",Gender Neutral,Adults (30+),Beta-blockers (if symptomatic)
+"Viral Exanthem (e.g., Measles, Rubella)","Rash, fever, cough, red eyes",Gender Neutral,Mostly children,"Supportive care, vaccines prevent"
+Vulvar Lichen Sclerosus,"White patches, itching, painful sex",Female,Postmenopausal women (50+),Topical steroids (clobetasol)
+Vaginal Adenosis,"Often asymptomatic, sometimes discharge/bleeding",Female,Teens/young adults (DES-exposed),"Monitoring, rarely requires treatment"
+Ventricular Aneurysm,"Chest pain, arrhythmias, heart failure",Male (post-heart attack),Adults (50+),"Surgery, blood thinners"
+Viral Myocarditis,"Chest pain, fatigue, arrhythmias, shortness of breath",Male (more severe cases),Young adults (20-40),"Antivirals (if specific cause), supportive care"
+Vaginal Fistula,"Foul-smelling discharge, urinary/fecal leakage",Female,Postpartum women or after pelvic surgery,Surgical repair
+Vitamin E Deficiency,"Nerve damage, muscle weakness, vision problems",Gender Neutral,Rare (usually malabsorption disorders),Vitamin E supplements
+Viral Encephalitis,"Fever, confusion, seizures, headache",Gender Neutral,Any age,"Antivirals (e.g., acyclovir for HSV), supportive care"
+Vaginal Stenosis,"Painful sex, difficulty inserting tampons",Female,Postmenopausal or post-radiation therapy,"Vaginal dilators, estrogen cream"
+Ventricular Septal Rupture (Post-MI),"Sudden chest pain, heart failure, shock",Gender Neutral,Elderly (60+),Emergency surgery
+Viral Arthritis,"Joint pain, swelling, fever (e.g., after parvovirus/chikungunya)",Gender Neutral,Any age,"NSAIDs, treat underlying virus"
+Vaginal Intraepithelial Neoplasia (VAIN),"Often asymptomatic, sometimes discharge/bleeding",Female,Adults (30-60),"Laser therapy, topical creams"
+Ventricular Assist Device (VAD) Infection,"Fever, device site redness, fatigue",Gender Neutral,Adults with heart failure,"IV antibiotics, device replacement if severe"
+Viral Pericarditis,"Sharp chest pain (worse lying down), fever",Gender Neutral,Young adults (20-40),"NSAIDs (ibuprofen), colchicine"
+Warts (Common Warts),"Small, rough skin growths (hands, feet, face)",Gender Neutral,Children & young adults (5–30),"Salicylic acid, cryotherapy, imiquimod"
+Whooping Cough (Pertussis),"Severe coughing fits, ""whooping"" sound, vomiting",Gender Neutral,"Infants, unvaccinated children/adults","Antibiotics (azithromycin), supportive care"
+Wilson’s Disease,"Liver disease, neurological issues, Kayser-Fleischer rings",Gender Neutral (inherited),Teens to adults (15–40),"Penicillamine, zinc supplements"
+West Nile Virus,"Fever, headache, body aches, rash (severe: encephalitis)",Gender Neutral,Adults (50+ at higher risk),Supportive care (no specific antiviral)
+Whipworm Infection (Trichuriasis),"Diarrhea, abdominal pain, anemia",Gender Neutral,Children in tropical regions,"Albendazole, mebendazole"
+Waldenström Macroglobulinemia,"Fatigue, bleeding, neuropathy, enlarged lymph nodes",Male (slightly more common),Elderly (60+),"Chemotherapy (rituximab), plasmapheresis"
+Waterhouse-Friderichsen Syndrome,"Sudden fever, rash, adrenal hemorrhage (meningococcal sepsis)",Gender Neutral,Children & young adults,"IV antibiotics (ceftriaxone), corticosteroids"
+Wernicke’s Encephalopathy,"Confusion, ataxia, vision changes (thiamine deficiency)",Gender Neutral,"Adults (chronic alcoholics, malnourished)",IV thiamine
+Weil’s Disease (Leptospirosis),"High fever, jaundice, muscle pain, kidney failure",Gender Neutral (higher risk in farmers/swimmers),Adults (20–60),"Antibiotics (doxycycline, penicillin)"
+Wry Neck (Torticollis),"Twisted neck, pain, limited head movement",Gender Neutral,Infants (congenital) or adults (injury/infection),"Physical therapy, muscle relaxants"
+Walking Pneumonia (Atypical Pneumonia),"Mild fever, cough, fatigue, chest discomfort",Gender Neutral,Children & young adults (5–40),"Antibiotics (azithromycin, doxycycline)"
+Warts (Genital Warts),Fleshy growths in genital/anal areas,Gender Neutral,Sexually active teens/adults (15–50),"Imiquimod, cryotherapy, HPV vaccine"
+Water Retention (Edema),"Swelling in legs/feet, puffiness, weight gain",Female (more common),Adults (30+),"Diuretics (furosemide), reduce salt intake"
+Whipple’s Disease,"Diarrhea, weight loss, joint pain, malabsorption",Male (90% of cases),Adults (40–60),Long-term antibiotics (TMP-SMX)
+Wandering Spleen,"Abdominal pain, splenic torsion (rare)",Female (more common),Children & young adults,Surgery (splenopexy/splenectomy)
+White Coat Hypertension,High BP in clinical settings (normal at home),Gender Neutral,Adults (30+),"Stress management, monitor BP"
+Wound Infection,"Redness, pus, fever, delayed healing",Gender Neutral,Any age,"Antibiotics (cephalexin), wound care"
+Winter Depression (Seasonal Affective Disorder),"Low mood, fatigue, weight gain (winter months)",Female (more common),Teens to adults (15–50),"Light therapy, SSRIs (fluoxetine)"
+Wiskott-Aldrich Syndrome,"Easy bleeding, eczema, frequent infections",Male (X-linked disorder),Infants/children,"Bone marrow transplant, IVIG"
+Water Allergy (Aquagenic Urticaria),"Hives, itching after water contact",Female (more reported cases),Teens to adults,"Antihistamines, barrier creams"
+Wrist Tendinitis (De Quervain’s Tenosynovitis),"Thumb/wrist pain, swelling, difficulty gripping",Female (postpartum/hormonal link),Adults (30–50),"NSAIDs (ibuprofen), splints, corticosteroid injections"
+Wolff-Parkinson-White Syndrome,"Rapid heartbeat, palpitations, dizziness",Gender Neutral,Teens to adults (15–40),"Beta-blockers, catheter ablation"
+Waardenburg Syndrome,"Hearing loss, white forelock, heterochromia (eye color difference)",Gender Neutral (genetic),Present at birth,"Hearing aids, genetic counseling"
+Warts (Plantar Warts),"Hard, painful lumps on soles of feet",Gender Neutral,Children & young adults (5–30),"Salicylic acid, cryotherapy"
+Wernicke-Korsakoff Syndrome,"Memory loss, confusion, ataxia (alcohol-related thiamine deficiency)",Male (chronic alcoholics),Adults (40+),Thiamine supplements
+Water Blisters (Dyshidrotic Eczema),Itchy blisters on hands/feet,Gender Neutral,Adults (20–40),"Topical steroids, antihistamines"
+Whipworm (Trichuris trichiura),"Bloody diarrhea, anemia, rectal prolapse (severe cases)",Gender Neutral,Children in endemic areas,Albendazole
+Wrist Sprain,"Pain, swelling, limited wrist movement",Gender Neutral,Any age,"RICE (rest, ice, compression, elevation), NSAIDs"
+Wandering Liver,Rare; abdominal discomfort if liver moves abnormally,Gender Neutral,Any age,Surgery if symptomatic
+White Sponge Nevus,"White, thickened oral mucosa (benign)",Gender Neutral (genetic),Present at birth/childhood,None (monitor for rare complications)
+Wrist Ganglion Cyst,"Soft lump on wrist, sometimes painful",Female (more common),Young adults (20–40),"Aspiration, surgery if persistent"
+Water Intoxication (Hyponatremia),"Nausea, headache, confusion, seizures",Gender Neutral,Any age,"IV saline (severe cases), fluid restriction"
+Whipworm Dysentery,Severe diarrhea with blood/mucus,Gender Neutral,Children in poor sanitation areas,"Albendazole, rehydration"
+Wegener’s Granulomatosis (GPA),"Sinusitis, kidney disease, lung nodules",Gender Neutral,Adults (40–60),"Immunosuppressants (cyclophosphamide, rituximab)"
+Windburn,"Red, irritated skin (face/hands)",Gender Neutral,Any age,"Moisturizers, aloe vera"
+Wrist Fracture (Scaphoid Fracture),"Wrist pain, swelling, bruising",Gender Neutral,Young adults (20–40),"Casting, surgery if displaced"
+Wandering Pacemaker,"Usually asymptomatic, irregular ECG",Gender Neutral,Elderly (60+),None unless symptomatic
+White Matter Disease,"Cognitive decline, gait problems (linked to aging/stroke)",Gender Neutral,Elderly (60+),"Manage vascular risk factors (BP, cholesterol)"
+Whipworm Colitis,"Chronic diarrhea, abdominal pain, malnutrition",Gender Neutral,Children in tropical regions,Albendazole
+Wrist Bursitis,"Swelling, pain with movement",Gender Neutral,Adults (30–60),"NSAIDs, rest, corticosteroid injections"
+Water Flea Bite (Schistosomiasis),"Rash, fever, abdominal pain (later: liver/kidney damage)",Gender Neutral,Any age in endemic areas,Praziquantel
+Wandering Spleen with Torsion,"Acute abdominal pain, nausea, vomiting",Female (more common),Children/young adults,Emergency surgery
+Wrist Osteoarthritis,"Stiffness, pain, reduced grip strength",Gender Neutral,Elderly (50+),"NSAIDs, joint injections"
+Whipworm Anemia,"Fatigue, pallor, weakness",Gender Neutral,Children in endemic areas,"Albendazole, iron supplements"
+Wandering Atrial Pacemaker,Irregular heartbeat (usually benign),Gender Neutral,Elderly (60+),None unless symptomatic
+White Tongue (Oral Thrush),"White patches on tongue/mouth, soreness",Gender Neutral,"Infants, immunocompromised adults","Antifungals (nystatin, fluconazole)"
+Wrist Tendonitis,"Pain with movement, swelling",Gender Neutral,Adults (30–60),"Rest, NSAIDs, physical therapy"
+Wandering Jew Dermatitis (Contact Dermatitis),"Red, itchy rash after plant contact",Gender Neutral,Any age,"Topical steroids, antihistamines"
+Whipworm Growth Stunting,Delayed growth in children (chronic infection),Gender Neutral,Children in endemic areas,"Albendazole, nutritional support"
+Wrist Ligament Tear (TFCC Tear),"Wrist pain, clicking, weakness",Gender Neutral,Adults (20–50),"Splinting, surgery if severe"
+Xanthoma,"Yellowish fatty skin deposits (elbows, knees, eyelids)",Gender Neutral,Adults (40+),"Statins (for high cholesterol), surgical removal"
+Xeroderma Pigmentosum (XP),"Extreme sun sensitivity, freckling, skin cancer risk",Gender Neutral (genetic),Childhood onset,"Sun avoidance, retinoids, frequent skin checks"
+Xerophthalmia,"Dry eyes, night blindness, corneal ulcers (Vitamin A deficiency)",Gender Neutral,Children in malnourished populations,"Vitamin A supplements, artificial tears"
+Xerostomia (Dry Mouth),"Sticky saliva, difficulty swallowing, tooth decay",Gender Neutral (more common in elderly),Adults (50+),"Pilocarpine, artificial saliva, hydration"
+X-Linked Agammaglobulinemia (Bruton’s Disease),"Recurrent infections (ear, lungs, sinuses), low antibodies",Male (X-linked),Infants/children (6 months+),"IV immunoglobulin (IVIG), antibiotics"
+X-Linked Hypophosphatemia (Vitamin D-Resistant Rickets),"Bone pain, short stature, dental abscesses",Male (more severe),Childhood onset,"Phosphate supplements, calcitriol"
+X-Linked Ichthyosis,"Scaly, dark skin (especially neck/limbs)",Male (X-linked),Present at birth/infancy,"Emollients, topical retinoids"
+X-Linked Lymphoproliferative Disease,"Severe EBV infection, lymphoma, immunodeficiency",Male (X-linked),Childhood,"Bone marrow transplant, antivirals"
+Xanthogranuloma (Juvenile Xanthogranuloma),Small red/yellow skin nodules (benign),Gender Neutral,Infants/children,Usually resolves spontaneously
+Xanthoma Disseminatum,"Widespread xanthomas, diabetes insipidus",Gender Neutral,Adults (30–50),"Lipid-lowering drugs, surgery for lesions"
+Xanthinuria,"Kidney stones, muscle pain (xanthine crystals)",Gender Neutral (genetic),Teens to adults,"Hydration, low-purine diet"
+X-Linked Adrenoleukodystrophy (ALD),"Neurologic decline, adrenal insufficiency, seizures",Male (X-linked),Childhood (cerebral form) or adults (adrenomyeloneuropathy),"Lorenzo’s oil, stem cell transplant"
+X-Linked Myotubular Myopathy,"Muscle weakness, respiratory failure",Male (X-linked),Infancy,"Supportive care (ventilation, PT)"
+X-Linked Retinoschisis,"Vision loss, retinal splitting",Male (X-linked),Childhood onset,No cure; low-vision aids
+X-Linked Severe Combined Immunodeficiency (SCID-X1),"Life-threatening infections, failure to thrive",Male (X-linked),Infants,"Bone marrow transplant, gene therapy"
+X-Linked Sideroblastic Anemia,"Fatigue, pale skin, iron overload",Male (X-linked),Teens to adults,"Pyridoxine (B6), blood transfusions"
+X-Linked Spinocerebellar Ataxia,"Poor coordination, speech difficulties",Male (X-linked),Teens to adults,"Supportive care (PT, speech therapy)"
+Xanthoma Tuberosum,"Large, nodular skin xanthomas (elbows, knees)",Gender Neutral,Adults (40+),"Statins, surgical excision"
+Xanthoma Planum,"Flat, yellowish skin patches",Gender Neutral,Adults (30+),Treat underlying hyperlipidemia
+Xanthoma Eruptivum,Sudden itchy yellow papules (trunk/limbs),Gender Neutral,Adults (20–50),"Statins, fibrates"
+X-Linked Dominant Chondrodysplasia Punctata,"Short stature, cataracts, skeletal abnormalities",Female (lethal in males),Present at birth,Supportive care
+X-Linked Hydrocephalus,"Enlarged head, developmental delays",Male (X-linked),Infancy,Shunt surgery
+X-Linked Mental Retardation (XLMR Syndromes),"Intellectual disability, behavioral issues",Male (X-linked),Childhood,"Behavioral therapy, education support"
+X-Linked Opitz G/BBB Syndrome,"Cleft palate, heart defects, hypospadias",Male (X-linked),Present at birth,Surgery for anomalies
+X-Linked Parkinsonism-Dystonia,"Parkinsonism, dystonia, psychiatric symptoms",Male (X-linked),Teens to adults,"Levodopa, antipsychotics"
+X-Linked Protoporphyria,"Painful photosensitivity, liver disease",Male (more severe),Childhood,"Afamelanotide, beta-carotene"
+X-Linked Retinitis Pigmentosa,"Night blindness, tunnel vision",Male (X-linked),Teens to adults,Vitamin A palmitate (may slow progression)
+X-Linked Spinal Muscular Atrophy (SMAX2),"Muscle weakness, respiratory issues",Male (X-linked),Infancy/childhood,Supportive care
+X-Linked Thrombocytopenia,"Easy bruising, bleeding",Male (X-linked),Childhood,Platelet transfusions
+X-Linked Dilated Cardiomyopathy,"Heart failure, arrhythmias",Male (X-linked),Teens to adults,"Beta-blockers, transplant"
+X-Linked Lissencephaly,"Seizures, severe developmental delays",Male (X-linked),Infancy,Anticonvulsants
+X-Linked Deafness (DFNX Syndromes),Hearing loss (conductive/sensorineural),Male (X-linked),Birth to childhood,"Hearing aids, cochlear implants"
+X-Linked Hypertrichosis,Excessive hair growth (face/body),Male (X-linked),Childhood,Laser hair removal
+X-Linked Hypohidrotic Ectodermal Dysplasia,"Sparse hair, missing teeth, inability to sweat",Male (X-linked),Infancy,"Artificial tears, dental implants"
+X-Linked Keratosis Follicularis Spinulosa Decalvans,"Scalp scarring, keratosis pilaris",Male (X-linked),Childhood,"Retinoids, moisturizers"
+X-Linked Myopathy with Excessive Autophagy,"Muscle weakness, respiratory failure",Male (X-linked),Childhood,Supportive care
+X-Linked Neutropenia,"Recurrent infections, low neutrophils",Male (X-linked),Infancy,G-CSF (filgrastim)
+X-Linked Ocular Albinism,"Nystagmus, reduced pigmentation in eyes",Male (X-linked),Infancy,"Visual aids, sunglasses"
+X-Linked Periventricular Heterotopia,"Seizures, developmental delays",Female (males often lethal),Childhood,Anticonvulsants
+X-Linked Progressive Retinal Atrophy,"Vision loss, night blindness",Male (X-linked),Childhood to adulthood,No cure; vision aids
+X-Linked Pyruvate Dehydrogenase Deficiency,"Lactic acidosis, neurologic decline",Male (X-linked),Infancy,"Ketogenic diet, thiamine"
+X-Linked Spondyloepiphyseal Dysplasia,"Short stature, joint pain, spinal deformities",Male (X-linked),Childhood,"Physical therapy, pain management"
+X-Linked Syndromic Intellectual Disability,"Intellectual disability, facial dysmorphism",Male (X-linked),Childhood,Behavioral therapy
+X-Linked VACTERL Syndrome,"Vertebral, anal, cardiac, tracheal, renal, limb anomalies",Male (X-linked),Present at birth,Surgery for defects
+Xanthoma Tendinosum,Tendon xanthomas (Achilles/hand tendons),Gender Neutral,Adults (30+),"Statins, LDL apheresis"
+Xanthoma Striatum Palmare,Yellow streaks on palms (hyperlipidemia),Gender Neutral,Adults (40+),Lipid-lowering drugs
+X-Linked Acrogigantism (X-LAG Syndrome),"Gigantism, pituitary tumors",Male (X-linked),Childhood,"Surgery, somatostatin analogs"
+X-Linked Alpha-Thalassemia Intellectual Disability (ATRX Syndrome),"Developmental delay, anemia, facial dysmorphism",Male (X-linked),Infancy,"Blood transfusions, supportive care"
+X-Linked Congenital Cataracts,Cloudy lenses at birth,Male (X-linked),Infancy,Cataract surgery
+X-Linked Dystonia-Parkinsonism (Lubag Disease),"Dystonia, parkinsonism, tremor",Male (X-linked),Adults (30–50),"Levodopa, botulinum toxin"
+Yaws,"Painless skin ulcers, bone/joint pain, later stage deformities",Gender Neutral,Children in tropical regions (2–15 years),Penicillin G (single dose)
+Yellow Fever,"Fever, jaundice, bleeding, liver failure",Gender Neutral,Any age (travelers in endemic areas),"Supportive care, vaccination prevents"
+Yeast Infection (Candidiasis),"Itching, white discharge (vaginal/oral), redness","Female (vaginal), Gender Neutral (oral/thrush)",Any age,"Antifungals (fluconazole, clotrimazole)"
+Yersiniosis,"Diarrhea, fever, abdominal pain (from Yersinia bacteria)",Gender Neutral,Any age,Antibiotics (ciprofloxacin if severe)
+Yolk Sac Tumor,"Abdominal mass (in ovaries/testes), elevated AFP","Gender Neutral (ovarian in females, testicular in males)","Infants/young children (0–5), young adults (15–30)",Surgery + chemotherapy (BEP regimen)
+Yips (Dystonia in Athletes),"Involuntary muscle spasms during sports (e.g., golf, baseball)",Male (more reported),Adults (30–60),"Beta-blockers, botulinum toxin injections"
+Y-linked Infertility (AZF Microdeletions),"Low sperm count, infertility",Male,Reproductive adults (20–50),IVF/ICSI (no direct cure)
+Yersinia Pestis (Plague),"Buboes (swollen lymph nodes), fever, septicemia",Gender Neutral,Any age,"Antibiotics (streptomycin, doxycycline)"
+Yellow Nail Syndrome,"Yellow/thick nails, lymphedema, pleural effusions",Gender Neutral,Adults (40+),"Vitamin E, zinc supplements"
+Yawning Syncope,Fainting triggered by excessive yawning,Gender Neutral,Teens to adults (15–50),Identify/treat underlying cause
+Yersinia Enterocolitica Infection,"Diarrhea, pseudoappendicitis (right abdominal pain)",Gender Neutral,Children (under 5),Supportive care (antibiotics if severe)
+Young Syndrome,"Chronic sinusitis, bronchiectasis, infertility (male)",Male,Adults (20–50),"Antibiotics, fertility treatments"
+Yersinia Pseudotuberculosis Infection,"Fever, abdominal pain, rash (mimics appendicitis)",Gender Neutral,Children/teens,Antibiotics (if severe)
+Yolk Sac Tumor of Mediastinum,"Chest pain, cough, elevated AFP",Male (more common),Young adults (15–30),Chemotherapy (cisplatin/etoposide)
+Y-linked Hearing Loss,Progressive hearing loss,Male,Teens to adults,Hearing aids
+Yersinia Arthritis,Joint pain/swelling (reactive arthritis post-infection),Gender Neutral,Adults (20–50),"NSAIDs, steroids"
+Yolk Sac Tumor of Pineal Gland,"Headache, vision changes, hydrocephalus",Male (more common),Children (0–10),Surgery + chemo/radiation
+Yersinia Pestis Pharyngitis,"Sore throat, fever, swollen lymph nodes",Gender Neutral,Any age,Antibiotics (gentamicin)
+Yolk Sac Tumor of Vagina,"Vaginal bleeding, mass (in infants)",Female,Infants (0–2),Chemotherapy
+Y-linked Hypertrichosis,Excessive hair growth (ears/face),Male,Present at birth,Laser hair removal
+Yolk Sac Tumor of Liver,"Abdominal mass, weight loss, elevated AFP",Gender Neutral,Infants/children (0–5),Surgery + chemo
+Yersinia Pestis Meningitis,"Headache, stiff neck, fever",Gender Neutral,Any age,IV antibiotics (chloramphenicol)
+Yolk Sac Tumor of Retroperitoneum,"Abdominal pain, mass, elevated AFP",Gender Neutral,Young adults (20–40),Surgery + chemo
+Y-linked Ichthyosis,Scaly skin (trunk/limbs),Male,Infancy,"Emollients, retinoids"
+Yolk Sac Tumor of Brain,"Seizures, vomiting, focal deficits",Gender Neutral,Children (0–10),Surgery + chemo
+Yersinia Pestis Pneumonia,"Cough, bloody sputum, respiratory failure",Gender Neutral,Any age,IV antibiotics (streptomycin)
+Yolk Sac Tumor of Sacrococcygeal Region,"Pelvic mass, constipation (in infants)",Gender Neutral,Infants (0–1),Surgery + chemo
+Y-linked Retinitis Pigmentosa,"Night blindness, tunnel vision",Male,Teens to adults,Vitamin A (may slow progression)
+Yolk Sac Tumor of Stomach,"Abdominal pain, vomiting, elevated AFP",Gender Neutral,Adults (20–50),Surgery + chemo
+Yersinia Pestis Septicemia,"Fever, hypotension, multi-organ failure",Gender Neutral,Any age,IV antibiotics + ICU care
+Yolk Sac Tumor of Bladder,"Hematuria, urinary obstruction",Gender Neutral,Children (0–10),Surgery + chemo
+Y-linked Cardiomyopathy,"Heart failure, arrhythmias",Male,Adults (30–60),"Beta-blockers, transplant"
+Yolk Sac Tumor of Kidney,"Abdominal mass, hematuria",Gender Neutral,Children (0–5),Nephrectomy + chemo
+Yersinia Pestis Cellulitis,"Painful skin infection, fever",Gender Neutral,Any age,Antibiotics (doxycycline)
+Yolk Sac Tumor of Lung,"Cough, chest pain, hemoptysis",Gender Neutral,Adults (20–50),Surgery + chemo
+Y-linked Hypogonadism,"Delayed puberty, infertility",Male,Teens to adults,Testosterone replacement
+Yolk Sac Tumor of Pancreas,"Abdominal pain, jaundice, elevated AFP",Gender Neutral,Adults (20–50),Whipple procedure + chemo
+Yersinia Pestis Endocarditis,"Fever, heart murmur, emboli",Gender Neutral,Adults (40+),IV antibiotics + valve surgery
+Yolk Sac Tumor of Thymus,"Chest pain, superior vena cava syndrome",Gender Neutral,Young adults (15–30),Surgery + chemo
+Y-linked Spastic Paraplegia,"Leg weakness, stiffness",Male,Teens to adults,Physical therapy
+Yolk Sac Tumor of Thyroid,"Neck mass, hoarseness, elevated AFP",Gender Neutral,Adults (20–50),Thyroidectomy + chemo
+Yersinia Pestis Osteomyelitis,"Bone pain, fever, localized swelling",Gender Neutral,Any age,IV antibiotics (ciprofloxacin)
+Yolk Sac Tumor of Uterus,"Vaginal bleeding, pelvic mass",Female,Adults (20–50),Hysterectomy + chemo
+Y-linked Deafness,Progressive hearing loss,Male,Teens to adults,Hearing aids
+Yolk Sac Tumor of Prostate,"Urinary obstruction, elevated AFP",Male,Adults (20–50),Prostatectomy + chemo
+Yersinia Pestis Peritonitis,"Abdominal pain, fever, ascites",Gender Neutral,Any age,IV antibiotics + drainage
+Yolk Sac Tumor of Nasopharynx,"Nasal obstruction, epistaxis, elevated AFP",Gender Neutral,Children (0–10),Chemo + radiation
+Y-linked Muscular Dystrophy,Progressive muscle weakness,Male,Childhood,Supportive care
+Yolk Sac Tumor of Esophagus,"Dysphagia, weight loss, elevated AFP",Gender Neutral,Adults (20–50),Esophagectomy + chemo
+Yersinia Pestis Encephalitis,"Confusion, seizures, fever",Gender Neutral,Any age,IV antibiotics (meropenem)
+Zika Virus Infection,"Fever, rash, joint pain, conjunctivitis (microcephaly in newborns)",Gender Neutral,Any age (severe in pregnant women/fetuses),Supportive care (no specific antiviral)
+Zollinger-Ellison Syndrome,"Severe peptic ulcers, diarrhea, abdominal pain",Male (slightly more common),Adults (30–60),"Proton pump inhibitors (omeprazole), surgery"
+Zygomycosis (Mucormycosis),"Sinus pain, black nasal discharge, fever (fungal infection)",Gender Neutral,Immunocompromised adults (40+),"Antifungals (amphotericin B), surgery"
+Zinc Deficiency,"Hair loss, diarrhea, immune dysfunction, skin lesions",Gender Neutral,Any age (common in malnourished children/elderly),Zinc supplements
+Zoster (Shingles),Painful blistering rash along nerve pathways,Gender Neutral,"Adults (50+), immunocompromised","Antivirals (acyclovir), pain relievers"
+Zellweger Syndrome,"Hypotonia, seizures, facial dysmorphism (peroxisomal disorder)",Gender Neutral (genetic),Infants (fatal in early childhood),Supportive care only
+Zenker’s Diverticulum,"Dysphagia, regurgitation, bad breath",Male (more common),Elderly (60+),Surgery (diverticulectomy)
+Zieve’s Syndrome,"Jaundice, hemolytic anemia, alcoholic liver disease",Male (alcohol-associated),Adults (30–60),"Alcohol cessation, supportive care"
+Zoonotic Diseases (General),"Varies by pathogen (e.g., rabies, Lyme, brucellosis)",Gender Neutral,Any age,Pathogen-specific (antibiotics/antivirals)
+Zygomatic Fracture,"Cheek pain, swelling, diplopia (double vision)",Male (trauma-prone),Teens to adults (15–50),Surgery if displaced
+Zollinger-Ellison Tumor (Gastrinoma),"Recurrent ulcers, GERD, diarrhea",Male (slightly more common),Adults (30–60),"PPIs (omeprazole), tumor resection"
+Zygote Intrafallopian Transfer (ZIFT) Complications,"Ovarian hyperstimulation, ectopic pregnancy",Female,Reproductive adults (20–40),"Hormonal management, surgery if ectopic"
+Zygomycosis Cutaneous,"Black necrotic skin lesions, fever",Gender Neutral,Immunocompromised (any age),"Amphotericin B, debridement"
+Zinc Toxicity,"Nausea, vomiting, copper deficiency",Gender Neutral,Any age,"Discontinue supplements, chelation (severe cases)"
+Zoster Ophthalmicus,"Shingles rash on forehead, eye pain, vision loss",Gender Neutral,Adults (50+),"Antivirals (valacyclovir), eye drops"
+Zygapophyseal Joint Dysfunction,"Chronic back pain, stiffness",Gender Neutral,Adults (30–70),"Physical therapy, joint injections"
+Zollinger-Ellison Syndrome with MEN1,"Multiple endocrine tumors, ulcers, hypercalcemia",Gender Neutral (genetic),Adults (20–50),"PPIs, tumor resection"
+Zygomatic Arch Fracture,"Cheek flattening, trismus (jaw lock)",Male (trauma),Teens to adults (15–50),Surgery if displaced
+Zoonotic Hookworm (Ancylostoma),"Itchy skin rash, abdominal pain, anemia",Gender Neutral,Children in endemic areas,"Albendazole, iron supplements"
+Zygomycosis Pulmonary,"Cough, fever, hemoptysis (fungal pneumonia)",Gender Neutral,Immunocompromised adults,Liposomal amphotericin B
+Zinc-Induced Copper Deficiency,"Anemia, neutropenia, neurologic symptoms",Gender Neutral,Any age,"Reduce zinc, copper supplements"
+Zoster Sine Herpete,Nerve pain without rash (post-herpetic neuralgia),Gender Neutral,Elderly (60+),"Gabapentin, antivirals"
+Zygomaticomaxillary Complex Fracture,"Midface pain, diplopia, malocclusion",Male (trauma),Teens to adults (15–50),Open reduction surgery
+Zollinger-Ellison Syndrome Metastatic,"Liver metastases, refractory ulcers",Gender Neutral,Adults (40–70),"Chemo (streptozocin), somatostatin analogs"
+"Zoonotic Influenza (e.g., H5N1, H7N9)","Fever, cough, ARDS (severe respiratory distress)",Gender Neutral,Any age,"Oseltamivir, supportive care"
+Zygomycosis Rhinocerebral,"Black nasal eschar, cranial nerve palsies",Gender Neutral,Diabetics/immunocompromised,"Amphotericin B, surgery"
+Zinc Deficiency Dermatitis,Erythematous scaly rash (acral/periorificial),Gender Neutral,Infants/malnourished elderly,Zinc sulfate
+Zoster Meningoencephalitis,"Headache, confusion, seizures (shingles CNS spread)",Gender Neutral,Elderly/immunocompromised,"IV acyclovir, steroids"
+Zygomatic Bone Tumor,"Cheek swelling, pain, diplopia",Gender Neutral,Adults (20–60),"Surgery, radiation"
+Zollinger-Ellison Syndrome with Gastric Carcinoid,"Ulcers, flushing, diarrhea",Gender Neutral,Adults (40–70),"Somatostatin analogs, tumor resection"
+Zoonotic Leishmaniasis,"Skin ulcers, fever, splenomegaly",Gender Neutral,Any age,"Amphotericin B, miltefosine"
+Zygomycosis Disseminated,"Multi-organ failure, fever, septic shock",Gender Neutral,Severely immunocompromised,"Amphotericin B, ICU care"
+Zinc Deficiency Acrodermatitis,"Perioral/limb rash, alopecia",Gender Neutral,Infants (genetic/metabolic),Zinc supplements
+Zoster Oticus (Ramsay Hunt Syndrome),"Ear pain, facial paralysis, vesicular rash",Gender Neutral,Adults (50+),Antivirals + prednisone
+Zygomatic Process Fracture,"Eye displacement, infraorbital numbness",Male (trauma),Teens to adults (15–50),Surgical fixation
+Zollinger-Ellison Syndrome with VIPoma,"Watery diarrhea, hypokalemia, achlorhydria",Gender Neutral,Adults (30–60),"Octreotide, tumor resection"
+"Zoonotic Malaria (e.g., P. knowlesi)","Fever, chills, hemolytic anemia",Gender Neutral,Any age,"Artesunate, chloroquine (species-dependent)"
+Zygomycosis Gastrointestinal,"Abdominal pain, bleeding, perforation",Gender Neutral,Malnourished/immunocompromised,"Amphotericin B, surgery"
+Zinc Deficiency Hypogeusia,"Loss of taste, dysgeusia (metallic taste)",Gender Neutral,Elderly (60+),Zinc gluconate
+Zoster Myelitis,"Limb weakness, bowel/bladder dysfunction",Gender Neutral,Elderly/immunocompromised,"IV acyclovir, rehab"
+Zygomatic Complex Fracture with Orbital Floor Involvement,"Enophthalmos, diplopia, cheek numbness",Male (trauma),Adults (20–50),Orbital floor reconstruction
+Zollinger-Ellison Syndrome with Parathyroid Adenoma,"Hypercalcemia, kidney stones, ulcers",Gender Neutral,Adults (30–60),"Parathyroidectomy, PPIs"
+Zoonotic Babesiosis,"Fever, hemolytic anemia, fatigue",Gender Neutral,Any age (severe in splenectomized/elderly),Atovaquone + azithromycin
+Zygomycosis Renal,"Flank pain, hematuria, renal failure",Gender Neutral,Immunocompromised,"Amphotericin B, nephrectomy"
+Zinc Deficiency in Crohn’s Disease,"Diarrhea, skin lesions, immune dysfunction",Gender Neutral,Teens to adults (15–50),"Zinc supplements, treat Crohn’s"
+Zoster Disseminated (in HIV/AIDS),"Widespread vesicles, organ involvement",Gender Neutral,Immunocompromised adults,"IV acyclovir, ART for HIV"
+Zygomaticomaxillary Fracture with Le Fort Involvement,"Midface instability, CSF rhinorrhea",Male (trauma),Adults (20–50),Surgical fixation
+Zollinger-Ellison Syndrome with Pituitary Adenoma,"Headaches, visual defects, ulcers",Gender Neutral,Adults (30–60),"PPIs, transsphenoidal surgery"
+Zoonotic Tularemia (Rabbit Fever),"Ulceroglandular lesions, fever, pneumonia",Gender Neutral,Any age,"Streptomycin, doxycycline"
